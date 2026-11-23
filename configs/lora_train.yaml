@@ -1,0 +1,20 @@
+# Token-budget ablation: identical settings for every budget (only data + max_seq_length change).
+train: true
+fine_tune_type: lora
+batch_size: 1
+iters: 600            # = 1 epoch over 600 train examples
+num_layers: -1
+grad_checkpoint: true
+mask_prompt: true
+learning_rate: 1e-4
+steps_per_report: 5        # live loss line every 5 steps
+steps_per_eval: 100000
+val_batches: 1
+save_every: 50             # checkpoint every 50 steps -> <adapter-path>/00000NN_adapters.safetensors
+seed: 0
+lora_parameters:
+  rank: 16
+  scale: 20.0
+  dropout: 0.0
+# Resume after a crash (verified in mlx_lm/lora.py: loads adapter weights only, NOT optimizer state or step count):
+#   add --resume-adapter-file <adapter-path>/<last>_adapters.safetensors and lower --iters by the steps already done.
