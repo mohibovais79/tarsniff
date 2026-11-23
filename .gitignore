@@ -7,10 +7,10 @@ dist/
 .venv
 
 # Never commit data, malware samples, models or results dumps
-bench/
-data/
-adapters/
-models/
+/bench/
+/data/
+/adapters/
+/models/
 *.tgz
 *.tar.gz
 *.zip
