@@ -21,3 +21,6 @@ dist/
 *.jsonl
 *.tsv
 .DS_Store
+
+# local notes
+/DEMO.md

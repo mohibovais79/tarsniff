@@ -3,6 +3,7 @@ name = "tarsniff"
 version = "0.1.0"
 description = "Check an npm package for malware before you install it, with a small fine-tuned Qwen model that runs locally."
 readme = "README.md"
+license = "Apache-2.0"
 authors = [{ name = "mohibovais79", email = "mohibovais79@gmail.com" }]
 requires-python = ">=3.10"
 dependencies = ["tokenizers>=0.20"]
