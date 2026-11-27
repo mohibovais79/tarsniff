@@ -29,6 +29,7 @@ from . import digest
 
 REGISTRY = os.environ.get("TARSNIFF_REGISTRY", "https://registry.npmjs.org")
 MAX_DOWNLOAD = 60_000_000
+HF_MODEL = "hf.co/mohibovais79/tarsniff:Q4_K_M"
 THRESHOLD = 0.5  # fixed default (not tuned); trade-offs at other thresholds are in the README
 URL_RE = re.compile(r"(https?://|wss?://)[^\s'\"`)]+", re.I)
 
@@ -91,8 +92,11 @@ def p_malicious(prompt, model, host):
         d = json.load(urllib.request.urlopen(req, timeout=600))
     except urllib.error.HTTPError as e:
         msg = e.read().decode("utf-8", "replace")[:300]
+        if e.code == 404 and model == "tarsniff":
+            # not created locally: fall back to the name `ollama pull` gives the Hugging Face model
+            return p_malicious(prompt, HF_MODEL, host)
         if e.code == 404:
-            msg += f"\n  model '{model}' is not in Ollama - see README 'Install' (ollama pull ...)"
+            msg += f"\n  model '{model}' is not in Ollama - run: ollama pull {HF_MODEL}"
         raise ScanError(f"Ollama error {e.code}: {msg}") from None
     except urllib.error.URLError:
         raise ScanError(f"cannot reach Ollama at {host} - is it running? (`ollama serve`)") from None

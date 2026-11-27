@@ -22,7 +22,7 @@ $ tarsniff scan modelbufs@1.0.1
 
 - **Model on Hugging Face:** https://huggingface.co/mohibovais79/tarsniff
   (Qwen3-1.7B + LoRA, 4-bit GGUF, 1.0 GB, plus the LoRA adapter)
-- **Slides:** https://claude.ai/artifact/SMTSrzhM9apkvDNUgiwY6E
+- **Slides (PDF):** [docs/tarsniff-slides.pdf](docs/tarsniff-slides.pdf)
 - **Runs locally:** Ollama on a Mac mini M4 (16 GB), about 1 second per package. No cloud, no API key.
 - Built for the **Qwen Local Hackathon 2026**.
 
@@ -59,7 +59,6 @@ You need [Ollama](https://ollama.com) (macOS, Windows or Linux; tested with 0.40
 ```bash
 # 1. the model (1.0 GB)
 ollama pull hf.co/mohibovais79/tarsniff:Q4_K_M
-ollama cp hf.co/mohibovais79/tarsniff:Q4_K_M tarsniff
 
 # 2. the CLI
 pip install git+https://github.com/mohibovais79/tarsniff
