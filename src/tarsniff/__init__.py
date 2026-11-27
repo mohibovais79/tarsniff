@@ -2,4 +2,8 @@
 
 
 def main() -> None:
-    print("tarsniff: CLI not implemented yet")
+    import sys
+
+    from .cli import main as _main
+
+    sys.exit(_main())

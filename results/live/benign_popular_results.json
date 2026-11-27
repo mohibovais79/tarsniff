@@ -1,0 +1,3950 @@
+{
+ "n": 286,
+ "tarsniff_flagged": 29,
+ "guarddog_flagged": 5,
+ "either": 32,
+ "tarsniff_recall": 0.10139860139860139,
+ "guarddog_recall": 0.017482517482517484,
+ "rows": [
+  {
+   "id": "BEN-@adobe/css-tools",
+   "published": "2026-11-06T18:14:36.174Z",
+   "package": "@adobe/css-tools@5.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.23327214449952963,
+   "sec": 1.1910217919976276,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-@babel/plugin-syntax-typescript",
+   "published": "2026-06-27T08:04:32.972Z",
+   "package": "@babel/plugin-syntax-typescript@8.0.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.09648691984263277,
+   "sec": 0.35537529100110987,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@babel/plugin-transform-typescript",
+   "published": "2026-11-27T19:36:40.847Z",
+   "package": "@babel/plugin-transform-typescript@8.1.4",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.0510055934386155,
+   "sec": 1.0213734579992888,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-@babel/preset-typescript",
+   "published": "2026-10-07T09:59:20.454Z",
+   "package": "@babel/preset-typescript@8.0.7",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1106148099042421,
+   "sec": 1.0169829160004156,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@bramus/specificity",
+   "published": "2026-11-26T08:51:06.558Z",
+   "package": "@bramus/specificity@2.4.5",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.026003889639647136,
+   "sec": 1.0315446249987872,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-@csstools/color-helpers",
+   "published": "2026-11-17T12:23:15.524Z",
+   "package": "@csstools/color-helpers@6.1.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2044824320478855,
+   "sec": 1.024655334000272,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@csstools/css-calc",
+   "published": "2026-11-17T12:49:52.389Z",
+   "package": "@csstools/css-calc@3.4.4",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.5210404196233539,
+   "sec": 1.032260457999655,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@csstools/css-color-parser",
+   "published": "2026-11-17T12:53:15.967Z",
+   "package": "@csstools/css-color-parser@4.2.8",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1661610394004922,
+   "sec": 1.049400208001316,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@csstools/css-parser-algorithms",
+   "published": "2026-11-17T12:22:59.164Z",
+   "package": "@csstools/css-parser-algorithms@4.0.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.15863916970422762,
+   "sec": 1.0294588329998078,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@csstools/css-syntax-patches-for-csstree",
+   "published": "2026-11-17T12:23:56.648Z",
+   "package": "@csstools/css-syntax-patches-for-csstree@1.1.17",
+   "hooks": {},
+   "drop_reason": "no_code",
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@csstools/css-tokenizer",
+   "published": "2026-11-17T12:24:52.305Z",
+   "package": "@csstools/css-tokenizer@4.0.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.10717857141840618,
+   "sec": 1.039739042000292,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@flmngr/flmngr-react",
+   "published": "2025-08-29T09:18:29.135Z",
+   "package": "@flmngr/flmngr-react@2.0.13",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.023505639773859617,
+   "sec": 1.0287747920010588,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-@floating-ui/react-dom",
+   "published": "2026-07-11T08:41:32.791Z",
+   "package": "@floating-ui/react-dom@2.1.9",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.07133807059142606,
+   "sec": 1.0268035829976725,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/ansi",
+   "published": "2026-11-22T00:04:34.085Z",
+   "package": "@inquirer/ansi@2.1.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.38377121507112694,
+   "sec": 0.44122820800112095,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/checkbox",
+   "published": "2026-11-22T00:04:19.649Z",
+   "package": "@inquirer/checkbox@5.3.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.11238548205590176,
+   "sec": 1.0081549169990467,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/confirm",
+   "published": "2026-11-22T00:04:17.188Z",
+   "package": "@inquirer/confirm@6.4.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.12045863012229849,
+   "sec": 1.0263194170001952,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/core",
+   "published": "2026-11-22T00:04:22.161Z",
+   "package": "@inquirer/core@12.1.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.3196247052870415,
+   "sec": 1.027605292001681,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-@inquirer/editor",
+   "published": "2026-11-22T00:04:14.858Z",
+   "package": "@inquirer/editor@5.5.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2233909644890235,
+   "sec": 1.0411679160024505,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/expand",
+   "published": "2026-11-22T00:04:12.167Z",
+   "package": "@inquirer/expand@5.2.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.12404732258008261,
+   "sec": 1.0143559169991931,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/external-editor",
+   "published": "2026-11-22T00:04:31.694Z",
+   "package": "@inquirer/external-editor@3.1.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.9433915938267307,
+   "sec": 1.0402905830014788,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-@inquirer/figures",
+   "published": "2026-11-22T00:04:29.428Z",
+   "package": "@inquirer/figures@2.1.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.4430538957552831,
+   "sec": 1.0395590420012013,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/input",
+   "published": "2026-11-22T00:04:09.703Z",
+   "package": "@inquirer/input@5.2.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.10356538623905319,
+   "sec": 1.027556500001083,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/number",
+   "published": "2026-11-22T00:04:07.317Z",
+   "package": "@inquirer/number@4.3.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.10225286845182702,
+   "sec": 1.0369496249986696,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/password",
+   "published": "2026-11-22T00:04:04.399Z",
+   "package": "@inquirer/password@5.3.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1253614224506495,
+   "sec": 0.9165659169993887,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/prompts",
+   "published": "2026-11-22T00:03:54.859Z",
+   "package": "@inquirer/prompts@8.8.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1454986349806761,
+   "sec": 0.47681487500085495,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/rawlist",
+   "published": "2026-11-22T00:04:02.005Z",
+   "package": "@inquirer/rawlist@5.4.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.08234024207202258,
+   "sec": 1.0127141670018318,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/search",
+   "published": "2026-11-22T00:03:59.773Z",
+   "package": "@inquirer/search@4.4.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2993579748179516,
+   "sec": 1.272072208001191,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/select",
+   "published": "2026-11-22T00:03:57.375Z",
+   "package": "@inquirer/select@5.3.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.12055363708839727,
+   "sec": 1.169411916001991,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@inquirer/type",
+   "published": "2026-11-22T00:04:26.995Z",
+   "package": "@inquirer/type@4.3.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.15935303196336476,
+   "sec": 0.9536613749987737,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@isaacs/cliui",
+   "published": "2026-02-05T18:40:56.258Z",
+   "package": "@isaacs/cliui@9.0.0",
+   "hooks": {
+    "prepare": "tshy && bash build.sh"
+   },
+   "drop_reason": null,
+   "p": 0.05194935487549304,
+   "sec": 1.0268130419972294,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-@jest/core",
+   "published": "2026-09-18T13:57:12.315Z",
+   "package": "@jest/core@30.5.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.16933720016800208,
+   "sec": 1.2702330419997452,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-@next/env",
+   "published": "2026-11-09T20:22:29.994Z",
+   "package": "@next/env@16.4.6",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.799202459969995,
+   "sec": 1.4977994170003512,
+   "truncated": true,
+   "gd_score": 3.3,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-spawn",
+    "threat-filesystem-read",
+    "threat-runtime-environment-read"
+   ]
+  },
+  {
+   "id": "BEN-@octokit/types",
+   "published": "2026-08-29T16:03:59.320Z",
+   "package": "@octokit/types@18.0.0",
+   "hooks": {},
+   "drop_reason": "no_code",
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@opentelemetry/instrumentation-http",
+   "published": "2026-11-12T17:02:04.440Z",
+   "package": "@opentelemetry/instrumentation-http@0.301.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.17663276269833258,
+   "sec": 1.3045266670014826,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@oxc-parser/binding-linux-x64-gnu",
+   "published": "2026-11-23T13:28:52.905Z",
+   "package": "@oxc-parser/binding-linux-x64-gnu@0.160.0",
+   "hooks": {},
+   "drop_reason": "no_code",
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@reduxjs/toolkit",
+   "published": "2026-11-18T19:48:46.949Z",
+   "package": "@reduxjs/toolkit@2.15.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.32194112193487634,
+   "sec": 1.4150982909995946,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-download",
+    "capability-network-outbound",
+    "capability-process-hooks",
+    "capability-process-schedule"
+   ]
+  },
+  {
+   "id": "BEN-@sinclair/typebox",
+   "published": "2026-07-11T21:08:28.286Z",
+   "package": "@sinclair/typebox@0.34.52",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.03819585948467452,
+   "sec": 1.0334464160005155,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-@sindresorhus/is",
+   "published": "2026-05-11T11:22:36.268Z",
+   "package": "@sindresorhus/is@8.1.0",
+   "hooks": {
+    "prepare": "npm run build"
+   },
+   "drop_reason": null,
+   "p": 0.12100245068941685,
+   "sec": 1.2632174999998824,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-@standard-schema/spec",
+   "published": "2025-12-15T20:49:46.431Z",
+   "package": "@standard-schema/spec@1.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.010907291481930207,
+   "sec": 0.7180237909997231,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@storybook/addon-a11y",
+   "published": "2026-11-25T07:41:49.988Z",
+   "package": "@storybook/addon-a11y@10.6.9",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.10295922944660514,
+   "sec": 1.0186865420000686,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-@tanstack/react-virtual",
+   "published": "2026-11-22T17:58:09.790Z",
+   "package": "@tanstack/react-virtual@3.14.28",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.10753481917087696,
+   "sec": 1.3558810829999857,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@tanstack/virtual-core",
+   "published": "2026-11-22T17:57:19.595Z",
+   "package": "@tanstack/virtual-core@3.19.13",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.15388712462342183,
+   "sec": 1.3385902080008236,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-schedule"
+   ]
+  },
+  {
+   "id": "BEN-@testing-library/react",
+   "published": "2026-08-27T17:41:18.735Z",
+   "package": "@testing-library/react@16.3.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.044005486232295166,
+   "sec": 1.353443583000626,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-@testing-library/user-event",
+   "published": "2026-11-18T23:59:54.641Z",
+   "package": "@testing-library/user-event@14.6.13",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.019210523683608823,
+   "sec": 1.3084077909988991,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-@typescript-eslint/eslint-plugin",
+   "published": "2026-11-23T17:06:50.909Z",
+   "package": "@typescript-eslint/eslint-plugin@8.74.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.10809053562436162,
+   "sec": 1.3803553340003418,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-@typescript-eslint/parser",
+   "published": "2026-11-23T17:10:05.237Z",
+   "package": "@typescript-eslint/parser@8.74.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.06966191682275717,
+   "sec": 1.3788807499986433,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-@typescript-eslint/project-service",
+   "published": "2026-11-23T17:06:42.057Z",
+   "package": "@typescript-eslint/project-service@8.74.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.34820907364822395,
+   "sec": 1.3723191249991942,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@typescript-eslint/scope-manager",
+   "published": "2026-11-23T17:06:04.837Z",
+   "package": "@typescript-eslint/scope-manager@8.74.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.14762981646203469,
+   "sec": 1.4561419999990903,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-@typescript-eslint/tsconfig-utils",
+   "published": "2026-11-23T17:07:06.684Z",
+   "package": "@typescript-eslint/tsconfig-utils@8.74.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.006772248563632008,
+   "sec": 1.4131963750005525,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-@typescript-eslint/type-utils",
+   "published": "2026-11-23T17:07:08.809Z",
+   "package": "@typescript-eslint/type-utils@8.74.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1841305580164425,
+   "sec": 1.4422112499996729,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@typescript-eslint/types",
+   "published": "2026-11-23T17:06:11.017Z",
+   "package": "@typescript-eslint/types@8.74.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.020189691948354512,
+   "sec": 1.0268136669983505,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@typescript-eslint/typescript-estree",
+   "published": "2026-11-23T17:06:19.757Z",
+   "package": "@typescript-eslint/typescript-estree@8.74.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.15377265939942922,
+   "sec": 1.0286958750002668,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-@typescript-eslint/utils",
+   "published": "2026-11-23T17:06:12.252Z",
+   "package": "@typescript-eslint/utils@8.74.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2282811241670973,
+   "sec": 1.3715686250034196,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@typescript-eslint/visitor-keys",
+   "published": "2026-11-23T17:06:42.596Z",
+   "package": "@typescript-eslint/visitor-keys@8.74.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.03681921539447349,
+   "sec": 1.048333750000893,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@vitejs/plugin-react",
+   "published": "2026-11-09T06:12:31.033Z",
+   "package": "@vitejs/plugin-react@6.3.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.30282662251927334,
+   "sec": 1.353633583003102,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-@vitest/browser-playwright",
+   "published": "2026-11-25T11:50:56.170Z",
+   "package": "@vitest/browser-playwright@5.1.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.10796243396531906,
+   "sec": 1.3192413750002743,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-download",
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-@vitest/browser",
+   "published": "2026-11-25T11:50:56.523Z",
+   "package": "@vitest/browser@5.1.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.13721221097245784,
+   "sec": 1.054223291001108,
+   "truncated": true,
+   "gd_score": 4.9,
+   "gd_hits": [
+    "capability-filesystem-delete",
+    "capability-filesystem-read",
+    "capability-network-download",
+    "capability-network-outbound",
+    "capability-process-schedule",
+    "capability-process-spawn",
+    "threat-filesystem-read"
+   ]
+  },
+  {
+   "id": "BEN-@vitest/coverage-v8",
+   "published": "2026-11-25T11:50:54.136Z",
+   "package": "@vitest/coverage-v8@5.1.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.25116884601070155,
+   "sec": 1.0562951249994512,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-@vitest/expect",
+   "published": "2026-11-25T11:51:51.932Z",
+   "package": "@vitest/expect@5.1.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.24162984926319084,
+   "sec": 1.446924374999071,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-@vitest/mocker",
+   "published": "2026-11-25T11:51:04.956Z",
+   "package": "@vitest/mocker@5.1.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.19324370069991859,
+   "sec": 1.0605007499980275,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-download",
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-@vitest/pretty-format",
+   "published": "2026-11-25T11:51:53.920Z",
+   "package": "@vitest/pretty-format@5.1.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.05832802675104383,
+   "sec": 1.0650764999991225,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-@vitest/runner",
+   "published": "2026-08-18T14:23:19.849Z",
+   "package": "@vitest/runner@4.1.11",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.16323535620025367,
+   "sec": 1.0702752500001225,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-@vitest/snapshot",
+   "published": "2026-11-25T11:50:58.013Z",
+   "package": "@vitest/snapshot@5.1.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1791170914296805,
+   "sec": 1.3674475419975352,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-delete",
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-@vitest/spy",
+   "published": "2026-11-25T11:51:52.145Z",
+   "package": "@vitest/spy@5.1.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.047529984768097076,
+   "sec": 1.3763087500010442,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-agent-base",
+   "published": "2026-04-01T06:57:34.221Z",
+   "package": "agent-base@9.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2496715752289122,
+   "sec": 1.3728201249978156,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-agentkeepalive",
+   "published": "2024-12-29T02:57:11.450Z",
+   "package": "agentkeepalive@4.6.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.3923177317391593,
+   "sec": 1.427814209000644,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-ansi-colors",
+   "published": "2022-05-16T15:48:22.352Z",
+   "package": "ansi-colors@4.1.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1572627004470579,
+   "sec": 1.3747030830018048,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-ansi-escapes",
+   "published": "2026-02-04T16:21:10.230Z",
+   "package": "ansi-escapes@7.3.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.6306569175158754,
+   "sec": 1.0936048330004269,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-ansi-regex",
+   "published": "2026-11-08T11:31:30.760Z",
+   "package": "ansi-regex@6.6.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.728938657546076,
+   "sec": 1.3095199589988624,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-ansi-styles",
+   "published": "2026-07-26T14:57:36.835Z",
+   "package": "ansi-styles@7.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.6345105752822391,
+   "sec": 1.4334546660029446,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-argparse",
+   "published": "2026-10-24T07:16:22.794Z",
+   "package": "argparse@3.0.4",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.19101329442210366,
+   "sec": 1.3858245829978841,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read"
+   ]
+  },
+  {
+   "id": "BEN-assertion-error",
+   "published": "2023-10-18T18:04:13.507Z",
+   "package": "assertion-error@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.41903586401742776,
+   "sec": 0.5364655000012135,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-autoprefixer",
+   "published": "2026-11-19T20:33:20.839Z",
+   "package": "autoprefixer@10.7.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.189151638775047,
+   "sec": 1.2254547079974145,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-axios",
+   "published": "2026-11-09T16:17:55.565Z",
+   "package": "axios@1.21.1",
+   "hooks": {
+    "prepare": "husky"
+   },
+   "drop_reason": null,
+   "p": 0.40253568367268494,
+   "sec": 1.0934515420012758,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-outbound",
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-balanced-match",
+   "published": "2026-10-16T17:24:59.672Z",
+   "package": "balanced-match@5.0.0",
+   "hooks": {
+    "prepare": "tshy"
+   },
+   "drop_reason": null,
+   "p": 0.10191124598978399,
+   "sec": 1.0926894590011216,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-camelcase-css",
+   "published": "2018-08-11T00:59:21.455Z",
+   "package": "camelcase-css@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1256482234766214,
+   "sec": 0.9534957500000019,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-chai",
+   "published": "2026-09-30T19:18:04.368Z",
+   "package": "chai@6.3.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.009061514337939053,
+   "sec": 1.293378999998822,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-chalk",
+   "published": "2026-09-27T03:40:44.397Z",
+   "package": "chalk@6.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.3883570158854679,
+   "sec": 1.457717291003064,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-ci-info",
+   "published": "2026-11-09T10:36:21.915Z",
+   "package": "ci-info@4.5.0",
+   "hooks": {
+    "prepare": "husky install || true"
+   },
+   "drop_reason": null,
+   "p": 0.20617262536155082,
+   "sec": 1.4708629580018169,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-class-variance-authority",
+   "published": "2024-11-26T08:20:34.604Z",
+   "package": "class-variance-authority@0.7.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.06014668114895848,
+   "sec": 1.4073583749996033,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-classnames",
+   "published": "2023-12-29T15:55:16.013Z",
+   "package": "classnames@2.5.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.0365171087567786,
+   "sec": 1.3667236669971317,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-cli-cursor",
+   "published": "2024-07-26T14:02:26.233Z",
+   "package": "cli-cursor@5.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.23168689166236067,
+   "sec": 0.9085760420020961,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-cli-spinners",
+   "published": "2026-01-13T15:09:46.171Z",
+   "package": "cli-spinners@3.4.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2791401826348346,
+   "sec": 0.28707104200293543,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-cli-table3",
+   "published": "2024-05-12T16:36:50.079Z",
+   "package": "cli-table3@0.6.5",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.051653219960697674,
+   "sec": 1.072062208000716,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-cli-truncate",
+   "published": "2026-10-31T10:12:32.056Z",
+   "package": "cli-truncate@6.2.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.09615437815669985,
+   "sec": 1.3807212909996451,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-client-only",
+   "published": "2022-09-03T01:07:11.981Z",
+   "package": "client-only@0.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.8079962091823502,
+   "sec": 0.5893058340006974,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-cliui",
+   "published": "2025-03-17T02:36:25.499Z",
+   "package": "cliui@9.0.1",
+   "hooks": {
+    "prepare": "npm run compile"
+   },
+   "drop_reason": null,
+   "p": 0.4870438676967031,
+   "sec": 1.0566197499974805,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-cluster-key-slot",
+   "published": "2022-11-01T14:03:06.331Z",
+   "package": "cluster-key-slot@1.1.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1451816382539933,
+   "sec": 1.5421806249978545,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-color-string",
+   "published": "2025-11-15T16:35:04.631Z",
+   "package": "color-string@2.1.4",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.403571903846169,
+   "sec": 1.4278594589995919,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-color",
+   "published": "2025-11-14T18:41:59.513Z",
+   "package": "color@5.0.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.18318001582306961,
+   "sec": 1.3323074170002656,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-commander",
+   "published": "2026-11-07T01:27:22.311Z",
+   "package": "commander@15.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.09269162772846685,
+   "sec": 1.3712714159992174,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-compression",
+   "published": "2026-09-11T11:16:47.669Z",
+   "package": "compression@1.8.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.07518861036383037,
+   "sec": 1.5825779580009112,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-content-disposition",
+   "published": "2026-11-18T19:29:55.565Z",
+   "package": "content-disposition@3.1.0",
+   "hooks": {
+    "prepare": "ts-scripts install && npm run build"
+   },
+   "drop_reason": null,
+   "p": 0.16338154650627024,
+   "sec": 1.4424880000005942,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-content-type",
+   "published": "2026-09-17T17:22:57.746Z",
+   "package": "content-type@3.1.1",
+   "hooks": {
+    "prepare": "ts-scripts install && npm run build"
+   },
+   "drop_reason": null,
+   "p": 0.2067363491034359,
+   "sec": 1.4719860830009566,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-core-util-is",
+   "published": "2021-08-31T14:35:36.995Z",
+   "package": "core-util-is@1.0.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.013383501573788835,
+   "sec": 0.8500314590019116,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-cross-fetch",
+   "published": "2024-12-21T15:03:07.027Z",
+   "package": "cross-fetch@4.1.0",
+   "hooks": {
+    "prepare": "husky install"
+   },
+   "drop_reason": null,
+   "p": 0.5264963614132951,
+   "sec": 1.3563290420024714,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-download",
+    "capability-network-outbound",
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-css-loader",
+   "published": "2026-08-28T12:13:52.908Z",
+   "package": "css-loader@7.1.5",
+   "hooks": {
+    "prepare": "husky && npm run build"
+   },
+   "drop_reason": null,
+   "p": 0.07475936137817546,
+   "sec": 1.563047749998077,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-css-select",
+   "published": "2026-03-22T22:44:26.452Z",
+   "package": "css-select@7.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.15154749525624636,
+   "sec": 1.5212932909998926,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-css-tree",
+   "published": "2026-03-05T14:12:36.884Z",
+   "package": "css-tree@3.2.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.05053047517670514,
+   "sec": 1.4864325830021698,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-css.escape",
+   "published": "2016-08-23T20:00:45.435Z",
+   "package": "css.escape@1.5.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.04194049073366983,
+   "sec": 1.0935844160012493,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-cssesc",
+   "published": "2019-02-04T16:34:20.250Z",
+   "package": "cssesc@3.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.009503634731464703,
+   "sec": 1.4953569169992988,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-csso",
+   "published": "2022-08-10T17:40:57.922Z",
+   "package": "csso@5.0.5",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.040187812959800444,
+   "sec": 1.5949924160013325,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-csstype",
+   "published": "2026-11-17T09:43:05.615Z",
+   "package": "csstype@3.2.4",
+   "hooks": {},
+   "drop_reason": "no_code",
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-data-urls",
+   "published": "2026-10-04T07:40:15.148Z",
+   "package": "data-urls@8.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1574336514143034,
+   "sec": 1.161913124997227,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-decompress-response",
+   "published": "2025-10-13T18:04:04.805Z",
+   "package": "decompress-response@10.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.27331105985466275,
+   "sec": 1.0818427500016696,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-detect-node-es",
+   "published": "2021-03-18T00:59:32.365Z",
+   "package": "detect-node-es@1.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.14823396443195447,
+   "sec": 0.7695644579980581,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-diff",
+   "published": "2026-04-13T12:39:24.498Z",
+   "package": "diff@9.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.026145464046041386,
+   "sec": 1.1715793750008743,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-dom-helpers",
+   "published": "2025-06-20T07:39:05.733Z",
+   "package": "dom-helpers@6.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.07145213274391882,
+   "sec": 1.3947966669984453,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-effect",
+   "published": "2026-11-27T10:47:02.104Z",
+   "package": "effect@4.1.7",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.5363698390656464,
+   "sec": 1.6420857079974667,
+   "truncated": true,
+   "gd_score": 8.8,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-filesystem-write-executable",
+    "capability-network-download",
+    "capability-network-lolbas",
+    "capability-network-outbound",
+    "capability-process-schedule",
+    "capability-process-spawn",
+    "capability-runtime-clipboard",
+    "threat-filesystem-read",
+    "threat-process-download-exec",
+    "threat-runtime-obfuscation-api",
+    "threat-runtime-obfuscation-unicode"
+   ]
+  },
+  {
+   "id": "BEN-emittery",
+   "published": "2026-10-20T13:58:10.799Z",
+   "package": "emittery@2.2.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.24181410622938054,
+   "sec": 1.6224756669980707,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-environment",
+   "published": "2024-05-14T07:02:20.386Z",
+   "package": "environment@1.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2861559907583609,
+   "sec": 1.3356254170030297,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-eslint-plugin-react-hooks",
+   "published": "2026-04-17T18:03:19.591Z",
+   "package": "eslint-plugin-react-hooks@7.1.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.15920669449046418,
+   "sec": 1.5214442500000587,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-eslint-plugin-react",
+   "published": "2025-04-03T20:01:15.958Z",
+   "package": "eslint-plugin-react@7.37.5",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.10196047865828294,
+   "sec": 1.4350244580018625,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-etag",
+   "published": "2026-11-21T00:10:56.364Z",
+   "package": "etag@2.0.0",
+   "hooks": {
+    "prepare": "ts-scripts install && npm run build"
+   },
+   "drop_reason": null,
+   "p": 0.320367217928734,
+   "sec": 1.1468991670008108,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-expect-type",
+   "published": "2026-06-25T13:41:23.573Z",
+   "package": "expect-type@1.4.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.09054463339085096,
+   "sec": 1.5152120829989144,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-express",
+   "published": "2026-10-09T12:56:54.505Z",
+   "package": "express@5.3.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.013839001314397938,
+   "sec": 1.6095132499976899,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-fdir",
+   "published": "2025-08-14T16:56:03.948Z",
+   "package": "fdir@6.5.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.085378053431537,
+   "sec": 1.8557423329984886,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-figures",
+   "published": "2024-03-04T19:16:04.779Z",
+   "package": "figures@6.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.34969405891499183,
+   "sec": 1.5307615419987997,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-follow-redirects",
+   "published": "2026-11-08T16:53:16.878Z",
+   "package": "follow-redirects@1.16.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.4215108928830428,
+   "sec": 1.7310622500008321,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-forwarded",
+   "published": "2021-05-31T23:23:02.495Z",
+   "package": "forwarded@0.2.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.015887744321155806,
+   "sec": 0.669503082997835,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-framer-motion",
+   "published": "2026-11-13T14:51:13.754Z",
+   "package": "framer-motion@14.14.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2316135414863738,
+   "sec": 1.348296542000753,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-outbound",
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-fresh",
+   "published": "2017-09-14T05:03:12.205Z",
+   "package": "fresh@0.5.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.01483129221454296,
+   "sec": 1.6519019590014068,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-get-tsconfig",
+   "published": "2026-08-17T12:23:09.262Z",
+   "package": "get-tsconfig@4.14.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.7431742145521686,
+   "sec": 1.6184092910007166,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-globby",
+   "published": "2026-08-19T17:05:37.965Z",
+   "package": "globby@16.2.4",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.3618004070554559,
+   "sec": 1.1043748329975642,
+   "truncated": true,
+   "gd_score": 3.3,
+   "gd_hits": [
+    "capability-network-outbound",
+    "threat-filesystem-read"
+   ]
+  },
+  {
+   "id": "BEN-got",
+   "published": "2026-10-30T08:49:14.907Z",
+   "package": "got@16.2.0",
+   "hooks": {
+    "prepare": "npm run build"
+   },
+   "drop_reason": null,
+   "p": 0.7090891607660817,
+   "sec": 1.5511587910004891,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-download",
+    "capability-network-outbound",
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-has-flag",
+   "published": "2021-07-19T17:30:54.122Z",
+   "package": "has-flag@5.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.4803272618910868,
+   "sec": 0.8114171659981366,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-hast-util-parse-selector",
+   "published": "2023-08-01T11:57:16.332Z",
+   "package": "hast-util-parse-selector@4.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.13241045686834804,
+   "sec": 1.0310549999994691,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-hast-util-to-jsx-runtime",
+   "published": "2026-10-30T09:55:07.705Z",
+   "package": "hast-util-to-jsx-runtime@2.3.7",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.16383910091076787,
+   "sec": 1.3461087919968122,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-hoist-non-react-statics",
+   "published": "2020-01-22T23:21:02.975Z",
+   "package": "hoist-non-react-statics@3.3.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.09070559898738521,
+   "sec": 1.5278204169990204,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-hono",
+   "published": "2026-11-26T21:23:43.162Z",
+   "package": "hono@4.13.23",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.3371809405002934,
+   "sec": 1.6840410410004552,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-download",
+    "capability-network-outbound",
+    "capability-process-schedule",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-http-errors",
+   "published": "2025-11-20T19:12:22.755Z",
+   "package": "http-errors@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.03983177380732016,
+   "sec": 1.691642124998907,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-http-parser-js",
+   "published": "2025-04-08T14:12:27.703Z",
+   "package": "http-parser-js@0.5.10",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.12705234441475738,
+   "sec": 1.571316208999633,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-http-proxy-agent",
+   "published": "2026-06-08T16:47:24.200Z",
+   "package": "http-proxy-agent@9.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.47991785982431706,
+   "sec": 1.707011833001161,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-http2-wrapper",
+   "published": "2026-11-01T11:29:55.052Z",
+   "package": "http2-wrapper@2.2.4",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.590923988345066,
+   "sec": 1.3624949999975797,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-download",
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-human-signals",
+   "published": "2025-03-29T02:43:46.398Z",
+   "package": "human-signals@8.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.9341314749806314,
+   "sec": 1.7312255000033474,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-import-local",
+   "published": "2024-07-22T10:56:48.659Z",
+   "package": "import-local@3.2.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2604629278772071,
+   "sec": 1.0631018329986546,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-import-meta-resolve",
+   "published": "2025-08-29T18:46:15.488Z",
+   "package": "import-meta-resolve@4.2.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2334229734916233,
+   "sec": 1.4253787500019826,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-outbound",
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-inline-style-parser",
+   "published": "2026-07-06T05:20:11.679Z",
+   "package": "inline-style-parser@0.2.9",
+   "hooks": {
+    "prepare": "husky"
+   },
+   "drop_reason": null,
+   "p": 0.04508207722256585,
+   "sec": 1.4417535420034255,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-inquirer",
+   "published": "2026-11-22T00:03:47.381Z",
+   "package": "inquirer@14.3.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2695148302898592,
+   "sec": 1.4295776250000927,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-interpret",
+   "published": "2022-06-29T21:21:35.360Z",
+   "package": "interpret@3.1.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.09494649089644024,
+   "sec": 1.5907382080004027,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-invariant",
+   "published": "2018-03-13T18:36:10.235Z",
+   "package": "invariant@2.2.4",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.08695997739264237,
+   "sec": 1.3771226669996395,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-ip-regex",
+   "published": "2022-01-01T16:48:04.482Z",
+   "package": "ip-regex@5.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.6930308392211181,
+   "sec": 1.6168007500018575,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-is-bun-module",
+   "published": "2025-03-23T22:51:54.403Z",
+   "package": "is-bun-module@2.0.0",
+   "hooks": {
+    "prepare": "bun husky"
+   },
+   "drop_reason": null,
+   "p": 0.009429142945085582,
+   "sec": 1.7753239999983634,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-is-ci",
+   "published": "2024-12-08T08:23:15.565Z",
+   "package": "is-ci@4.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.3740865860008246,
+   "sec": 0.8426973749992612,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-is-core-module",
+   "published": "2026-11-03T17:45:46.799Z",
+   "package": "is-core-module@2.18.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.041276043155767106,
+   "sec": 0.9631377499972587,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-is-extendable",
+   "published": "2017-09-11T20:38:26.333Z",
+   "package": "is-extendable@1.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.03056958466821523,
+   "sec": 0.8690922919995501,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-is-extglob",
+   "published": "2016-12-11T04:04:24.390Z",
+   "package": "is-extglob@2.1.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.03970372765784104,
+   "sec": 0.4317569589984487,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-is-glob",
+   "published": "2021-09-29T16:52:47.977Z",
+   "package": "is-glob@4.0.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.025431091364549883,
+   "sec": 1.2355862080003135,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-is-number",
+   "published": "2018-07-04T15:08:58.238Z",
+   "package": "is-number@7.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.032101598202403256,
+   "sec": 0.8633868329998222,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-is-obj",
+   "published": "2021-04-16T19:05:38.181Z",
+   "package": "is-obj@3.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.23417535091722244,
+   "sec": 0.1617242080028518,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-is-plain-obj",
+   "published": "2022-06-15T15:47:13.746Z",
+   "package": "is-plain-obj@4.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.21084626596612857,
+   "sec": 0.1925984170011361,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-jackspeak",
+   "published": "2026-02-07T05:11:22.509Z",
+   "package": "jackspeak@4.2.3",
+   "hooks": {
+    "prepare": "tshy && bash build.sh"
+   },
+   "drop_reason": null,
+   "p": 0.05859911170518228,
+   "sec": 1.0637422920008248,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-jest-cli",
+   "published": "2026-09-18T13:58:36.368Z",
+   "package": "jest-cli@30.5.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1997530716389671,
+   "sec": 1.6927388750009413,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-jest-each",
+   "published": "2026-09-18T13:56:47.879Z",
+   "package": "jest-each@30.5.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.26455758878321906,
+   "sec": 1.6108195000015257,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-jest",
+   "published": "2026-09-18T13:58:07.141Z",
+   "package": "jest@30.5.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.04361716993591149,
+   "sec": 1.5658125840018329,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-json-schema-typed",
+   "published": "2026-10-15T19:02:54.636Z",
+   "package": "json-schema-typed@9.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.12029785572421933,
+   "sec": 1.6730913749997853,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-kind-of",
+   "published": "2020-01-16T16:59:19.808Z",
+   "package": "kind-of@6.0.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.025942940907948766,
+   "sec": 1.8981476670014672,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-kleur",
+   "published": "2022-06-26T18:50:12.559Z",
+   "package": "kleur@4.1.5",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.12619868215695806,
+   "sec": 1.762109250001231,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-lodash",
+   "published": "2026-04-01T21:01:20.458Z",
+   "package": "lodash@4.18.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2593007047262833,
+   "sec": 1.6553708329993242,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-log-symbols",
+   "published": "2025-05-21T13:47:39.089Z",
+   "package": "log-symbols@7.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.22831340425537358,
+   "sec": 1.0537196250006673,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-make-fetch-happen",
+   "published": "2026-11-23T22:56:48.541Z",
+   "package": "make-fetch-happen@16.0.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.20312618684490344,
+   "sec": 1.33770508300222,
+   "truncated": true,
+   "gd_score": 3.3,
+   "gd_hits": [
+    "capability-network-download",
+    "capability-network-outbound",
+    "threat-runtime-environment-read"
+   ]
+  },
+  {
+   "id": "BEN-mdast-util-find-and-replace",
+   "published": "2026-11-20T09:55:41.325Z",
+   "package": "mdast-util-find-and-replace@3.0.5",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.013227897191158872,
+   "sec": 1.5446550829983607,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-mdast-util-from-markdown",
+   "published": "2026-10-03T13:54:10.858Z",
+   "package": "mdast-util-from-markdown@2.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.025335115760815274,
+   "sec": 1.7430650830028753,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-mdast-util-gfm-autolink-literal",
+   "published": "2026-11-20T12:22:44.048Z",
+   "package": "mdast-util-gfm-autolink-literal@2.1.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.12202107325479035,
+   "sec": 1.7360200000002806,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-mdast-util-gfm-footnote",
+   "published": "2025-02-10T11:52:23.193Z",
+   "package": "mdast-util-gfm-footnote@2.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.07769693244550914,
+   "sec": 1.616193875001045,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-mdast-util-mdx-expression",
+   "published": "2024-09-13T10:36:30.801Z",
+   "package": "mdast-util-mdx-expression@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.09108165176256325,
+   "sec": 1.6134277089986426,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-mdast-util-mdxjs-esm",
+   "published": "2023-08-08T10:13:47.344Z",
+   "package": "mdast-util-mdxjs-esm@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.0783769006493186,
+   "sec": 1.6422079170006327,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-mdast-util-phrasing",
+   "published": "2024-02-01T10:26:42.249Z",
+   "package": "mdast-util-phrasing@4.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.03305950811676228,
+   "sec": 1.394230208999943,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-mdast-util-to-hast",
+   "published": "2026-11-13T12:35:32.398Z",
+   "package": "mdast-util-to-hast@13.2.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2677299972138977,
+   "sec": 1.5366059580010187,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-mdast-util-to-markdown",
+   "published": "2026-11-27T12:03:04.981Z",
+   "package": "mdast-util-to-markdown@2.2.5",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.26949191878749157,
+   "sec": 1.412204374999419,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-mdast-util-to-string",
+   "published": "2023-07-07T16:19:50.488Z",
+   "package": "mdast-util-to-string@4.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.030333070072315702,
+   "sec": 1.471859458997642,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-mdn-data",
+   "published": "2026-11-20T15:51:48.496Z",
+   "package": "mdn-data@2.38.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.03850783743841462,
+   "sec": 0.9368052909994731,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-memfs",
+   "published": "2026-11-12T20:59:47.404Z",
+   "package": "memfs@4.80.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.567772791459393,
+   "sec": 1.090471167000942,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-methods",
+   "published": "2026-11-25T18:42:02.314Z",
+   "package": "methods@2.0.0",
+   "hooks": {
+    "prepare": "ts-scripts install && npm run build"
+   },
+   "drop_reason": null,
+   "p": 0.29257675042821607,
+   "sec": 0.5763985420016979,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-micromark-util-chunked",
+   "published": "2024-11-12T11:17:17.117Z",
+   "package": "micromark-util-chunked@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.34459894688810283,
+   "sec": 1.3609246660016652,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-micromark-util-classify-character",
+   "published": "2024-11-12T11:17:20.461Z",
+   "package": "micromark-util-classify-character@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.21786453863107358,
+   "sec": 1.1278223330009496,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-micromark-util-combine-extensions",
+   "published": "2024-11-12T11:17:23.680Z",
+   "package": "micromark-util-combine-extensions@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.19271050120987732,
+   "sec": 1.253897082999174,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-micromark-util-decode-numeric-character-reference",
+   "published": "2024-11-12T11:17:27.210Z",
+   "package": "micromark-util-decode-numeric-character-reference@2.0.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2138802420156991,
+   "sec": 1.40656187499917,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-micromark-util-decode-string",
+   "published": "2024-11-12T11:17:30.843Z",
+   "package": "micromark-util-decode-string@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.20612923263547564,
+   "sec": 1.4277799589981441,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-micromark-util-encode",
+   "published": "2024-11-12T11:17:34.206Z",
+   "package": "micromark-util-encode@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.24768378246638206,
+   "sec": 0.7445454169974255,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-micromark-util-html-tag-name",
+   "published": "2024-11-12T11:17:37.806Z",
+   "package": "micromark-util-html-tag-name@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.38341400180565505,
+   "sec": 0.838864207998995,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-micromark-util-normalize-identifier",
+   "published": "2024-11-12T11:17:41.347Z",
+   "package": "micromark-util-normalize-identifier@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.08006450190522113,
+   "sec": 1.2615255410019017,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-micromark-util-resolve-all",
+   "published": "2024-11-12T11:17:45.019Z",
+   "package": "micromark-util-resolve-all@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.23985948310812835,
+   "sec": 0.8452310409993515,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-micromark-util-subtokenize",
+   "published": "2025-02-27T13:48:52.891Z",
+   "package": "micromark-util-subtokenize@2.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.20340388553124775,
+   "sec": 1.0771998340023856,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-micromark-util-symbol",
+   "published": "2024-11-12T11:17:55.709Z",
+   "package": "micromark-util-symbol@2.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.11678643217525216,
+   "sec": 1.6507120839996787,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-micromark-util-types",
+   "published": "2026-09-26T15:41:21.975Z",
+   "package": "micromark-util-types@2.0.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.2537952424082284,
+   "sec": 0.6562518749997253,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-mime",
+   "published": "2026-10-27T14:15:05.422Z",
+   "package": "mime@4.1.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.24873693936171334,
+   "sec": 1.1472097499972733,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-mimic-response",
+   "published": "2021-08-11T14:32:51.305Z",
+   "package": "mimic-response@4.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.24797213142180663,
+   "sec": 1.1229554589990585,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-module-details-from-path",
+   "published": "2025-04-29T16:59:53.775Z",
+   "package": "module-details-from-path@1.0.4",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.02957429126998086,
+   "sec": 0.68155816700164,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-motion",
+   "published": "2026-11-13T14:49:15.222Z",
+   "package": "motion@14.14.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.08267636355528345,
+   "sec": 1.0777687080008036,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-outbound",
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-negotiator",
+   "published": "2026-08-20T16:45:05.235Z",
+   "package": "negotiator@1.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.00826648635517782,
+   "sec": 1.5167706249994808,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-next",
+   "published": "2026-11-09T20:33:38.821Z",
+   "package": "next@16.4.6",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.12730979472278206,
+   "sec": 1.7395907499994792,
+   "truncated": true,
+   "gd_score": 7.9,
+   "gd_hits": [
+    "capability-filesystem-delete",
+    "capability-filesystem-read",
+    "capability-network-download",
+    "capability-network-outbound",
+    "capability-process-schedule",
+    "capability-process-spawn",
+    "threat-filesystem-autostart",
+    "threat-filesystem-destruction",
+    "threat-filesystem-read",
+    "threat-process-download-exec",
+    "threat-process-memory",
+    "threat-process-spawn-silent",
+    "threat-runtime-environment-read",
+    "threat-runtime-obfuscation",
+    "threat-runtime-obfuscation-base64exec",
+    "threat-runtime-obfuscation-steganography"
+   ]
+  },
+  {
+   "id": "BEN-node-abi",
+   "published": "2026-11-19T20:26:43.179Z",
+   "package": "node-abi@4.43.0",
+   "hooks": {
+    "prepare": "husky"
+   },
+   "drop_reason": null,
+   "p": 0.45552973021553905,
+   "sec": 1.0961569999999483,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-node-exports-info",
+   "published": "2026-06-23T20:38:11.991Z",
+   "package": "node-exports-info@2.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.04503898966948926,
+   "sec": 1.4262514999973064,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-node-fetch",
+   "published": "2023-07-25T11:50:17.626Z",
+   "package": "node-fetch@3.3.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.14375939816528155,
+   "sec": 1.104915166997671,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-download",
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-node-forge",
+   "published": "2026-11-23T05:37:27.574Z",
+   "package": "node-forge@1.4.4",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.12246949494193363,
+   "sec": 1.1118339169988758,
+   "truncated": true,
+   "gd_score": 7.2,
+   "gd_hits": [
+    "capability-network-download",
+    "capability-process-spawn",
+    "threat-runtime-obfuscation-log-suppress"
+   ]
+  },
+  {
+   "id": "BEN-npm-run-path",
+   "published": "2024-08-26T08:40:09.814Z",
+   "package": "npm-run-path@6.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.5325105867650454,
+   "sec": 0.8233744159988419,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-nth-check",
+   "published": "2026-03-17T23:12:57.654Z",
+   "package": "nth-check@3.0.1",
+   "hooks": {
+    "prepare": "npm run build"
+   },
+   "drop_reason": null,
+   "p": 0.07137093261722174,
+   "sec": 1.0952444169997761,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-nwsapi",
+   "published": "2026-09-18T19:18:27.511Z",
+   "package": "nwsapi@2.2.28",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.05493780289823829,
+   "sec": 1.102984834000381,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-on-headers",
+   "published": "2025-07-17T15:41:31.684Z",
+   "package": "on-headers@1.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.013649796854832249,
+   "sec": 1.1089974159986014,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-optionator",
+   "published": "2024-04-26T22:17:51.408Z",
+   "package": "optionator@0.9.4",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.030749105522114642,
+   "sec": 1.1009274999996705,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-ora",
+   "published": "2026-10-31T07:01:00.693Z",
+   "package": "ora@10.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.3630922527460909,
+   "sec": 1.1036112919973675,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-oxc-parser",
+   "published": "2026-11-23T13:39:56.502Z",
+   "package": "oxc-parser@0.160.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1912565570769406,
+   "sec": 1.1101887080003507,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-delete",
+    "capability-filesystem-read",
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-p-locate",
+   "published": "2026-02-03T07:57:49.916Z",
+   "package": "p-locate@7.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.32354581328446175,
+   "sec": 0.7404927080024208,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-pac-proxy-agent",
+   "published": "2026-11-16T18:35:40.181Z",
+   "package": "pac-proxy-agent@9.1.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.5380873518512658,
+   "sec": 1.090943375002098,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-path-parse",
+   "published": "2021-05-25T12:57:37.333Z",
+   "package": "path-parse@1.0.7",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.06793841454303129,
+   "sec": 0.8974496660011937,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-picocolors",
+   "published": "2024-10-16T18:20:03.921Z",
+   "package": "picocolors@1.1.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.10815233539716777,
+   "sec": 1.1025860420013487,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-pify",
+   "published": "2022-09-02T12:55:21.948Z",
+   "package": "pify@6.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.13393231217750215,
+   "sec": 0.9145921670024109,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-postcss-import",
+   "published": "2026-10-13T19:24:24.940Z",
+   "package": "postcss-import@17.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.10794296722128201,
+   "sec": 1.0979449170008593,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-postcss-js",
+   "published": "2026-11-19T20:50:51.930Z",
+   "package": "postcss-js@5.1.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.10564207208336746,
+   "sec": 1.1009180410001136,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-postcss-nested",
+   "published": "2026-10-21T11:27:55.618Z",
+   "package": "postcss-nested@9.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.3804212820681756,
+   "sec": 1.1699092500020924,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-postcss",
+   "published": "2026-11-27T09:27:17.761Z",
+   "package": "postcss@8.5.34",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.044586846231131176,
+   "sec": 1.142794250001316,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-preact",
+   "published": "2026-11-06T08:21:05.975Z",
+   "package": "preact@11.2.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1245117002066811,
+   "sec": 1.7994974579996779,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-progress",
+   "published": "2018-12-05T16:57:58.058Z",
+   "package": "progress@2.0.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.028804189644274503,
+   "sec": 1.1017753749983967,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-prompts",
+   "published": "2021-10-07T21:23:57.263Z",
+   "package": "prompts@2.4.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.5075424999095585,
+   "sec": 1.1015219170003547,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-prop-types",
+   "published": "2022-01-05T00:08:33.458Z",
+   "package": "prop-types@15.8.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.04691767883341986,
+   "sec": 1.1022675830026856,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-protobufjs",
+   "published": "2026-10-11T17:12:37.434Z",
+   "package": "protobufjs@8.8.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.10389859550277454,
+   "sec": 1.1092684590003046,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-download",
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-proxy-agent",
+   "published": "2026-11-16T18:35:45.486Z",
+   "package": "proxy-agent@8.0.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.5007143015770467,
+   "sec": 1.0904279169990332,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-range-parser",
+   "published": "2026-11-18T19:50:31.230Z",
+   "package": "range-parser@2.0.0",
+   "hooks": {
+    "prepare": "ts-scripts install && npm run build"
+   },
+   "drop_reason": null,
+   "p": 0.30823985518987945,
+   "sec": 1.1033420839994506,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-react-dom",
+   "published": "2026-10-14T16:49:10.081Z",
+   "package": "react-dom@19.3.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.20941821854824874,
+   "sec": 1.3497731250026845,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-react-hook-form",
+   "published": "2026-11-11T10:45:48.202Z",
+   "package": "react-hook-form@7.92.0",
+   "hooks": {
+    "prepare": "husky"
+   },
+   "drop_reason": null,
+   "p": 0.3948123996907126,
+   "sec": 1.1014818329967966,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-download",
+    "capability-network-outbound",
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-react-is",
+   "published": "2026-10-14T16:47:50.866Z",
+   "package": "react-is@19.3.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.03464778643238418,
+   "sec": 1.2990005829997244,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-react-markdown",
+   "published": "2025-03-07T10:32:53.222Z",
+   "package": "react-markdown@10.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.021469433590633018,
+   "sec": 1.1012832910018915,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-react-redux",
+   "published": "2026-10-27T22:04:36.338Z",
+   "package": "react-redux@9.3.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1332774615583604,
+   "sec": 1.1040245000003779,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-react-refresh",
+   "published": "2026-09-09T17:18:17.793Z",
+   "package": "react-refresh@0.19.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.03423651498814202,
+   "sec": 1.231034708001971,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-react-router-dom",
+   "published": "2026-11-24T18:02:11.155Z",
+   "package": "react-router-dom@7.18.7",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.033626303159736484,
+   "sec": 0.914566957999341,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-react-router",
+   "published": "2026-11-24T18:39:52.093Z",
+   "package": "react-router@8.5.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.25150621760374026,
+   "sec": 1.1090541250014212,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-download",
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-react-style-singleton",
+   "published": "2024-12-15T02:27:37.493Z",
+   "package": "react-style-singleton@2.2.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.040269921624900895,
+   "sec": 1.1189222499997413,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-react-transition-group",
+   "published": "2022-08-01T08:36:58.958Z",
+   "package": "react-transition-group@4.4.5",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.11828401279863092,
+   "sec": 1.1015270830030204,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-react",
+   "published": "2026-10-14T16:47:15.290Z",
+   "package": "react@19.3.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.06694218665149097,
+   "sec": 1.0829213340002752,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-recharts",
+   "published": "2026-11-27T11:03:37.951Z",
+   "package": "recharts@3.11.2",
+   "hooks": {
+    "prepare": "husky || true"
+   },
+   "drop_reason": null,
+   "p": 0.4786187942682458,
+   "sec": 1.5584855410015734,
+   "truncated": true,
+   "gd_score": 6.4,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-hooks",
+    "capability-process-spawn",
+    "threat-network-outbound-shady-links"
+   ]
+  },
+  {
+   "id": "BEN-requires-port",
+   "published": "2015-10-30T14:42:33.794Z",
+   "package": "requires-port@1.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1948222100351742,
+   "sec": 1.1019551669996872,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-reselect",
+   "published": "2026-08-22T02:13:00.013Z",
+   "package": "reselect@5.3.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.06874672906922502,
+   "sec": 1.1015228329997626,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-resolve",
+   "published": "2026-11-03T17:52:07.815Z",
+   "package": "resolve@1.22.14",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.6817776648106482,
+   "sec": 1.12593379199825,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-delete",
+    "capability-filesystem-read",
+    "capability-network-outbound",
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-responselike",
+   "published": "2025-10-10T08:13:41.343Z",
+   "package": "responselike@4.0.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.08714204091072203,
+   "sec": 0.47953495800175006,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-restore-cursor",
+   "published": "2024-07-26T13:56:42.169Z",
+   "package": "restore-cursor@5.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.6240224019518643,
+   "sec": 0.48680562500157976,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-rimraf",
+   "published": "2026-11-03T17:25:48.860Z",
+   "package": "rimraf@6.1.4",
+   "hooks": {
+    "prepare": "tshy"
+   },
+   "drop_reason": null,
+   "p": 0.04191052646108883,
+   "sec": 1.220858208998834,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-delete",
+    "capability-network-outbound",
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-rou3",
+   "published": "2026-10-03T10:11:01.776Z",
+   "package": "rou3@1.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.12846427017302228,
+   "sec": 1.2624517080002988,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-safe-regex-test",
+   "published": "2024-12-12T18:49:07.155Z",
+   "package": "safe-regex-test@1.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.16332864114618081,
+   "sec": 0.5566578340003616,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-scheduler",
+   "published": "2026-09-09T17:17:30.281Z",
+   "package": "scheduler@0.28.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.1396106813814948,
+   "sec": 1.0891410000003816,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-shebang-regex",
+   "published": "2021-08-13T23:09:49.954Z",
+   "package": "shebang-regex@4.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.6648196170559625,
+   "sec": 0.186826666998968,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-slice-ansi",
+   "published": "2026-11-08T18:04:33.842Z",
+   "package": "slice-ansi@10.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.18837442287134482,
+   "sec": 1.1463818330012145,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-socks-proxy-agent",
+   "published": "2026-06-08T16:47:31.711Z",
+   "package": "socks-proxy-agent@10.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.3234986367291844,
+   "sec": 1.0951861670000653,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-sonner",
+   "published": "2026-08-09T08:46:10.174Z",
+   "package": "sonner@2.0.8",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.27428339543129265,
+   "sec": 1.1058793750016775,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-standardwebhooks",
+   "published": "2026-11-17T21:28:35.320Z",
+   "package": "standardwebhooks@1.3.0",
+   "hooks": {
+    "prepare": "npm run build"
+   },
+   "drop_reason": null,
+   "p": 0.5995405649702807,
+   "sec": 1.1041166249997332,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-statuses",
+   "published": "2025-06-06T19:56:01.385Z",
+   "package": "statuses@2.0.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.025312424123863617,
+   "sec": 1.0118630409997422,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-string-width",
+   "published": "2026-11-11T16:32:37.637Z",
+   "package": "string-width@9.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.30489232206588895,
+   "sec": 1.101468125001702,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-strip-json-comments",
+   "published": "2026-11-14T08:10:49.583Z",
+   "package": "strip-json-comments@5.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.14206326165088157,
+   "sec": 1.1016390829972806,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-style-to-js",
+   "published": "2026-07-07T04:37:47.719Z",
+   "package": "style-to-js@2.0.2",
+   "hooks": {
+    "prepare": "husky"
+   },
+   "drop_reason": null,
+   "p": 0.12309793351368999,
+   "sec": 1.1049138749986014,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-style-to-object",
+   "published": "2026-07-06T05:52:19.836Z",
+   "package": "style-to-object@2.0.2",
+   "hooks": {
+    "prepare": "husky"
+   },
+   "drop_reason": null,
+   "p": 0.03425001130878189,
+   "sec": 1.1037556670016784,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-styled-jsx",
+   "published": "2025-04-30T13:33:43.637Z",
+   "package": "styled-jsx@5.1.7",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.03342809099294996,
+   "sec": 1.105846250000468,
+   "truncated": true,
+   "gd_score": 4.5,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-download",
+    "capability-network-outbound",
+    "capability-process-spawn",
+    "threat-runtime-obfuscation"
+   ]
+  },
+  {
+   "id": "BEN-supertest",
+   "published": "2026-11-07T09:08:00.147Z",
+   "package": "supertest@7.3.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.11701937760543066,
+   "sec": 1.212384041002224,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-supports-color",
+   "published": "2026-07-26T15:13:36.815Z",
+   "package": "supports-color@11.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.7676963168925997,
+   "sec": 1.1051936670010036,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-supports-preserve-symlinks-flag",
+   "published": "2022-01-03T07:22:56.640Z",
+   "package": "supports-preserve-symlinks-flag@1.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.10657739053200055,
+   "sec": 0.6664167080016341,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-tailwind-merge",
+   "published": "2026-11-19T23:08:45.734Z",
+   "package": "tailwind-merge@3.7.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.017498011627066722,
+   "sec": 1.0879774160021043,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-terser-webpack-plugin",
+   "published": "2026-05-27T17:31:34.637Z",
+   "package": "terser-webpack-plugin@5.6.1",
+   "hooks": {
+    "prepare": "husky install && npm run build"
+   },
+   "drop_reason": null,
+   "p": 0.6487606730843164,
+   "sec": 1.2525840419984888,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-tinyspy",
+   "published": "2026-09-04T16:05:17.158Z",
+   "package": "tinyspy@4.0.6",
+   "hooks": {
+    "prepare": "husky"
+   },
+   "drop_reason": null,
+   "p": 0.07430021574327574,
+   "sec": 1.1042407090026245,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-tldts",
+   "published": "2026-11-27T10:17:16.174Z",
+   "package": "tldts@7.6.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.9764396169056592,
+   "sec": 1.1370412090000173,
+   "truncated": true,
+   "gd_score": 4.9,
+   "gd_hits": [
+    "capability-process-hooks",
+    "threat-process-memory",
+    "threat-runtime-obfuscation-unicode"
+   ]
+  },
+  {
+   "id": "BEN-ts-node",
+   "published": "2023-12-08T12:04:46.154Z",
+   "package": "ts-node@10.9.2",
+   "hooks": {
+    "prepare": "npm run clean && npm run build-nopack"
+   },
+   "drop_reason": null,
+   "p": 0.3489774431154341,
+   "sec": 1.2374767920009617,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-outbound",
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-tsx",
+   "published": "2026-09-20T07:22:17.792Z",
+   "package": "tsx@4.23.15",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.8698973075836087,
+   "sec": 1.0934967089997372,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-delete",
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-tw-animate-css",
+   "published": "2025-09-24T05:25:53.055Z",
+   "package": "tw-animate-css@1.4.0",
+   "hooks": {},
+   "drop_reason": "no_code",
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-type-fest",
+   "published": "2026-11-19T07:47:40.570Z",
+   "package": "type-fest@6.0.3",
+   "hooks": {},
+   "drop_reason": "no_code",
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-typescript-eslint",
+   "published": "2026-11-23T17:06:58.945Z",
+   "package": "typescript-eslint@8.74.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.21973360213681753,
+   "sec": 1.1039847920001193,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-undici",
+   "published": "2026-11-20T21:04:15.832Z",
+   "package": "undici@8.13.1",
+   "hooks": {
+    "prepare": "husky && node ./scripts/platform-shell.js"
+   },
+   "drop_reason": null,
+   "p": 0.2073407163995541,
+   "sec": 1.1142996250018768,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-download",
+    "capability-network-outbound",
+    "capability-process-hooks",
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-unicorn-magic",
+   "published": "2026-09-24T02:56:19.689Z",
+   "package": "unicorn-magic@0.4.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.19325472404644617,
+   "sec": 0.6718327500020678,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-unist-util-is",
+   "published": "2025-10-16T18:01:47.398Z",
+   "package": "unist-util-is@6.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.01271538012497659,
+   "sec": 1.096193957997457,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-unist-util-position",
+   "published": "2023-07-07T09:59:34.316Z",
+   "package": "unist-util-position@5.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.08017568269239722,
+   "sec": 0.9685255830008828,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-unist-util-stringify-position",
+   "published": "2023-07-07T10:09:26.763Z",
+   "package": "unist-util-stringify-position@4.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.020263056794627633,
+   "sec": 0.9704983329975221,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-unist-util-visit-parents",
+   "published": "2026-10-24T17:49:56.518Z",
+   "package": "unist-util-visit-parents@6.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.022410372030651143,
+   "sec": 1.1010032090016466,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-unist-util-visit",
+   "published": "2026-10-24T18:44:36.789Z",
+   "package": "unist-util-visit@5.2.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.08622333832876375,
+   "sec": 1.279953833000036,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-use-callback-ref",
+   "published": "2024-12-17T11:07:58.012Z",
+   "package": "use-callback-ref@1.3.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.04430826019724906,
+   "sec": 1.116205500002252,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-use-sidecar",
+   "published": "2024-12-15T01:49:19.375Z",
+   "package": "use-sidecar@1.1.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.061950204746729104,
+   "sec": 1.6918194579993724,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-util-deprecate",
+   "published": "2015-10-07T18:37:40.665Z",
+   "package": "util-deprecate@1.0.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.3232486667999913,
+   "sec": 0.8858659580000676,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-utils-merge",
+   "published": "2017-09-20T00:18:39.692Z",
+   "package": "utils-merge@1.0.1",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.042771208388103915,
+   "sec": 0.46569008299775305,
+   "truncated": false,
+   "gd_score": 4.9,
+   "gd_hits": [
+    "threat-npm-http-dependency"
+   ]
+  },
+  {
+   "id": "BEN-vary",
+   "published": "2026-11-24T19:44:14.491Z",
+   "package": "vary@2.0.0",
+   "hooks": {
+    "prepare": "ts-scripts install && npm run build"
+   },
+   "drop_reason": null,
+   "p": 0.3486174146907566,
+   "sec": 1.1015263749977748,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-vfile-message",
+   "published": "2026-11-06T16:20:13.499Z",
+   "package": "vfile-message@4.0.4",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.025660847874887465,
+   "sec": 1.6766623750008876,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-vitest",
+   "published": "2026-11-25T11:52:10.118Z",
+   "package": "vitest@5.1.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.048719342933214484,
+   "sec": 1.136389582999982,
+   "truncated": true,
+   "gd_score": 4.9,
+   "gd_hits": [
+    "capability-filesystem-delete",
+    "capability-filesystem-read",
+    "capability-network-download",
+    "capability-network-outbound",
+    "capability-process-schedule",
+    "capability-process-spawn",
+    "threat-filesystem-read"
+   ]
+  },
+  {
+   "id": "BEN-whatwg-mimetype",
+   "published": "2026-01-20T03:04:38.058Z",
+   "package": "whatwg-mimetype@5.0.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.15756932426832626,
+   "sec": 1.0950225419983326,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-why-is-node-running",
+   "published": "2026-10-09T11:19:32.467Z",
+   "package": "why-is-node-running@3.2.3",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.7105730027066186,
+   "sec": 1.103165665997949,
+   "truncated": false,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-wrangler",
+   "published": "2026-11-27T14:25:00.061Z",
+   "package": "wrangler@4.169.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.5703771419793243,
+   "sec": 1.4876437920029275,
+   "truncated": true,
+   "gd_score": 7.9,
+   "gd_hits": [
+    "capability-filesystem-read",
+    "capability-filesystem-write-executable",
+    "capability-network-download",
+    "capability-network-lolbas",
+    "capability-network-outbound",
+    "capability-process-spawn",
+    "threat-filesystem-autostart",
+    "threat-filesystem-destruction",
+    "threat-filesystem-read",
+    "threat-network-exfil-sysinfo",
+    "threat-network-exfiltration",
+    "threat-network-outbound-shady-links",
+    "threat-process-spawn-silent",
+    "threat-runtime-environment-read",
+    "threat-runtime-obfuscation",
+    "threat-runtime-obfuscation-base64exec",
+    "threat-runtime-obfuscation-steganography",
+    "threat-runtime-system-info"
+   ]
+  },
+  {
+   "id": "BEN-wrap-ansi",
+   "published": "2026-09-21T04:09:32.260Z",
+   "package": "wrap-ansi@10.0.2",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.3956366639079245,
+   "sec": 1.0935818750003818,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-process-spawn"
+   ]
+  },
+  {
+   "id": "BEN-yargs-parser",
+   "published": "2025-05-26T20:12:00.864Z",
+   "package": "yargs-parser@22.0.0",
+   "hooks": {
+    "prepare": "npm run compile"
+   },
+   "drop_reason": null,
+   "p": 0.37374634088304487,
+   "sec": 1.1034199169989733,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-yargs",
+   "published": "2026-09-20T22:34:11.798Z",
+   "package": "yargs@18.2.0",
+   "hooks": {
+    "prepare": "npm run compile"
+   },
+   "drop_reason": null,
+   "p": 0.46189038173673785,
+   "sec": 1.081989458998578,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-hooks"
+   ]
+  },
+  {
+   "id": "BEN-yoctocolors",
+   "published": "2026-07-26T13:39:35.966Z",
+   "package": "yoctocolors@2.2.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.34413254653798503,
+   "sec": 1.1021489170016139,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": []
+  },
+  {
+   "id": "BEN-zod",
+   "published": "2026-10-12T16:29:37.778Z",
+   "package": "zod@4.6.7",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.044074787142367226,
+   "sec": 1.1077946670011443,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound"
+   ]
+  },
+  {
+   "id": "BEN-zustand",
+   "published": "2026-11-06T14:07:48.019Z",
+   "package": "zustand@5.1.0",
+   "hooks": {},
+   "drop_reason": null,
+   "p": 0.14544196066942022,
+   "sec": 1.5588986670009035,
+   "truncated": true,
+   "gd_score": 0.0,
+   "gd_hits": [
+    "capability-network-outbound",
+    "capability-process-spawn"
+   ]
+  }
+ ]
+}

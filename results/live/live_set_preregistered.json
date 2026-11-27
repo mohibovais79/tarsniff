@@ -1,0 +1,691 @@
+{
+ "selection": "every npm MAL- report published by OSV since 2026-11-13 whose malicious version was still downloadable from registry.npmjs.org on 2026-11-27 (npm placeholders excluded); one version per report, the highest. Fixed before scoring.",
+ "packages": [
+  {
+   "id": "MAL-2026-19223",
+   "published": "2026-11-13T03:55:32Z",
+   "name": "curse-allies-module",
+   "version": "1.0.0",
+   "integrity": "sha512-6RtzDTkFgVxARZBg7T6nZC/O4bftY5RffXwmghvO8GTzOFqmIIBnNDAOxRr/PVe8FUtjfNZiETYCQQ21D2euhQ=="
+  },
+  {
+   "id": "MAL-2026-19224",
+   "published": "2026-11-13T03:55:49Z",
+   "name": "helper-agent",
+   "version": "1.0.4",
+   "integrity": "sha512-uuI4u/4f2bneAvPAncFrludreIugY3J6B8rq0FspoyhuQ3IhHcK/4iIp96QkxmJWeln/OW3cNkY6FeM11ujTTQ=="
+  },
+  {
+   "id": "MAL-2026-19228",
+   "published": "2026-11-13T03:58:46Z",
+   "name": "zxcvb90-utils-helper",
+   "version": "1.0.1",
+   "integrity": "sha512-D8C9ERV5Rs3EqD+tx3Yyd44guGpZ/cxsFeAMNuAAxAlEsK13IOXDHt0/YJgFRM+gWM4DjNp7cH1dY1ofF0B+hw=="
+  },
+  {
+   "id": "MAL-2026-19230",
+   "published": "2026-11-13T04:16:04Z",
+   "name": "internallib_v811",
+   "version": "1.0.1",
+   "integrity": "sha512-RElWDyAj7Be6zLpnVJO1mK04gISxFBT8XRNPGlu7ma470I2Ly2u+8oNQ3jD+sK4RcjeBioKvLCk8efq5IE9PAw=="
+  },
+  {
+   "id": "MAL-2026-19948",
+   "published": "2026-11-14T15:13:52Z",
+   "name": "hstdemotest",
+   "version": "1.3.0",
+   "integrity": "sha512-TjRU8+7drhMrGJPVVqO70kTbyHDkt+m7hD9gaT27BLktI7Dr4tKeC84vUw9CHUB+rxZe5rlPqAY1Iol9chI4xA=="
+  },
+  {
+   "id": "MAL-2026-19949",
+   "published": "2026-11-14T15:13:52Z",
+   "name": "hstdemotests",
+   "version": "1.3.0",
+   "integrity": "sha512-x7J6G5bgjauHJMZ8yPkjkQ92t1YSsLmCxTaPt7x+io4e26mclkLEPlmCyr87xx+mLHSgZkrRU/XR7PGF6S5BmQ=="
+  },
+  {
+   "id": "MAL-2026-19950",
+   "published": "2026-11-14T15:13:52Z",
+   "name": "tg-msg-effect",
+   "version": "1.0.10",
+   "integrity": "sha512-SRXGBteefa3bGzpSHRswRpvoLuqEr5x/lBrXxeLR/hey3PIf7iJlbD6dKdRwpXk2iCVSu9SnVAAdRvH8cxi53g=="
+  },
+  {
+   "id": "MAL-2026-19962",
+   "published": "2026-11-16T17:10:41Z",
+   "name": "@kingsaurus/libsignal-node",
+   "version": "1.0.1",
+   "integrity": "sha512-za9Z/9OspYqg+Xce+mxCnBFSmHZyWZxPPLJgjEIlHrBHtL6Ukh4JPKd6wnIuj9oaHnRHomxJoXL3KktVQWGsvw=="
+  },
+  {
+   "id": "MAL-2026-19966",
+   "published": "2026-11-16T16:40:22Z",
+   "name": "@xzvbailss/xzgateway",
+   "version": "5.0.0",
+   "integrity": "sha512-eMCmQxjrPDHju+xNQo5ZJUESHZ17Mbn5gc/efThw59cTSPG0L9klFsV/iyIFvl/6ik1dtHNWrtZaQmz0Z4t7+Q=="
+  },
+  {
+   "id": "MAL-2026-19967",
+   "published": "2026-11-16T16:40:41Z",
+   "name": "@zeppeliorg/yt-sdl",
+   "version": "0.0.1",
+   "integrity": "sha512-cHn+7WGUOlZ7H9qEo8QENCzlpZ6U2mk0CwzsVgu3t+U6odeU9QTSG9Fus0KZ2hXII7dpTaZfXP2boSmLtALvsg=="
+  },
+  {
+   "id": "MAL-2026-19977",
+   "published": "2026-11-16T18:14:22Z",
+   "name": "@arks-labs/config",
+   "version": "0.1.0",
+   "integrity": "sha512-mVdmqLC3lgCjgcJUA2HSWiC838J3ozahkyH59WkR5EvZuQVGHV+FdrfP/wS82ZUvQe0wJjvjwUXTtTI3SNsvOw=="
+  },
+  {
+   "id": "MAL-2026-19999",
+   "published": "2026-11-16T18:46:41Z",
+   "name": "@risacakep/risayap",
+   "version": "7.0.0-rc25.10",
+   "integrity": "sha512-2Bt4ssXFiERE0en3HIlfklXn6StZptyT3y18vxZPUk7J9DjeuiNKxZABqDNkSNqs9VOJlOSyOH71dwK2pIU/Gw=="
+  },
+  {
+   "id": "MAL-2026-20022",
+   "published": "2026-11-16T22:42:19Z",
+   "name": "kartykgithub-bulk-rollback",
+   "version": "1.0.0",
+   "integrity": "sha512-J7+JL14HKmNgli2/okJKuxiSn78UFXpfEKWD6YFdj7YEiSgpLenP+5bbgJ9R7w8zznmgP9mQMu/BA/kE8BOn6w=="
+  },
+  {
+   "id": "MAL-2026-20034",
+   "published": "2026-11-14T15:13:52Z",
+   "name": "base128-x58",
+   "version": "0.0.2",
+   "integrity": "sha512-GPGtIGtGwTefKcTsmOYbHtFsZ6bBswiGgXbt3hvxwNNg0x0CfKYuo5PyWaYodWozxDW07DeFqq96pO3oqoKP3w=="
+  },
+  {
+   "id": "MAL-2026-20035",
+   "published": "2026-11-14T15:13:52Z",
+   "name": "base60-58x",
+   "version": "5.0.3",
+   "integrity": "sha512-nD0ThsHYv+0ZNgpRM8vqhilbeGTnhWQo4wu552Be6xXRACYwfD7z5Nmau7Bb2EW32+iTHs1fON0uC9/hv/4Shw=="
+  },
+  {
+   "id": "MAL-2026-20036",
+   "published": "2026-11-14T15:13:52Z",
+   "name": "base64-x58",
+   "version": "0.0.5",
+   "integrity": "sha512-0MSIKISOZpMLuajndcMQE4kBMvqtoAIt6d9gw8uVI3Dz3A4fgnTE6aC/5BB/v6mRt7hp8e9r/zw/iC4zi+esqQ=="
+  },
+  {
+   "id": "MAL-2026-20037",
+   "published": "2026-11-14T15:13:52Z",
+   "name": "bs58-60",
+   "version": "6.0.0",
+   "integrity": "sha512-hcxCKMXPIq0zOA2CyhVGC7kXnzipyw3ZIGhZsCHSvS/J2upSxQcgP4SQnQlvUVIbjJ0akcTKeNR1KYiEoD5kfA=="
+  },
+  {
+   "id": "MAL-2026-20038",
+   "published": "2026-11-14T15:13:52Z",
+   "name": "ethers-wallet-latest",
+   "version": "5.8.0",
+   "integrity": "sha512-wZq0QbUCXY+UppVRO1VLNag/9HC8I3ND3F8bsnxFjcDvZqdDxXXhnALkHpdLs+qwGyEvh433pC1TVeD5lItzYw=="
+  },
+  {
+   "id": "MAL-2026-20039",
+   "published": "2026-11-14T15:13:52Z",
+   "name": "node-bs58.js",
+   "version": "6.0.0",
+   "integrity": "sha512-tZnSJmzg6v0ZK7r6dVukDuZeIPkLXX18aO6YtmonV7N4tt92FQdbPzF7qwMI72jngLVXS6yuZihD/vyjFmwjzg=="
+  },
+  {
+   "id": "MAL-2026-20040",
+   "published": "2026-11-14T15:13:52Z",
+   "name": "npm-bs58.js",
+   "version": "6.0.0",
+   "integrity": "sha512-IBP6bMdR8Ko6PROSLAeGtNVCuRoCtPbCe87cNDNe6JYCHEQ+hTH2xNdGrGBczhiIybonVX9MDcHBJEb0jy+RHg=="
+  },
+  {
+   "id": "MAL-2026-20062",
+   "published": "2026-11-17T07:42:52Z",
+   "name": "singpass-myinfo-oidc-helper",
+   "version": "0.0.2",
+   "integrity": "sha512-Js+/ukKO/vtqk45QclWXldjn6NFryjb4q0Wky7dehxEVgb828pZ0gHXEntZhAkUV76N/5j3+V9W2P2T483YoOw=="
+  },
+  {
+   "id": "MAL-2026-20107",
+   "published": "2026-11-17T00:00:00Z",
+   "name": "vant",
+   "version": "4.9.14",
+   "integrity": "sha512-sWov3CZ6555Mb0y4j7wjR0JIpKhPZwAIYLJT9/4p823uqSdPU96bL7VgJS75cSiATIODz4QGgZrSh6sa15jJGA=="
+  },
+  {
+   "id": "MAL-2026-20119",
+   "published": "2026-11-18T06:12:31Z",
+   "name": "@clickwraps/fetch",
+   "version": "99.9.1",
+   "integrity": "sha512-H661zg56TIGxAwSYo8wOJLU5+tYgSwbRHsBWtTU5cu8Z7IBvaMehIitswXi9GTrUUIjsVXLJ2s0HQ00MXLwuOg=="
+  },
+  {
+   "id": "MAL-2026-20140",
+   "published": "2026-11-19T00:35:09Z",
+   "name": "@mrnima/facebook-downloader",
+   "version": "1.0.0",
+   "integrity": "sha512-sKAIkVVtiT5TyzcecqhU93KHGjNu9K3oa7dKQPfpHujC3n06uYXpWmc1f0krY7XIXHezCxtIj1p9QXy6EfDv4A=="
+  },
+  {
+   "id": "MAL-2026-20141",
+   "published": "2026-11-19T00:35:09Z",
+   "name": "@mrnima/instagram-downloader",
+   "version": "1.0.0",
+   "integrity": "sha512-nxi4onrfNQ5OwiWMOo6kueawSC8rzw/0LEuvxH8kF3RieCO8+OP/u5GhMs/yjLGnU/7cvlD7NkwSurWfMSsXsQ=="
+  },
+  {
+   "id": "MAL-2026-20178",
+   "published": "2026-11-19T04:52:00Z",
+   "name": "@bellaxchan/baileys",
+   "version": "1.4.3",
+   "integrity": "sha512-lvFl+EnL+nqrF/uhKmdUMzHP2jd8OKjLdTmoM726qjqL8Y9JT/SxhLL8TDvTSgja5guGqiqt7Ci3tSY+80BCOQ=="
+  },
+  {
+   "id": "MAL-2026-20187",
+   "published": "2026-11-18T17:00:00Z",
+   "name": "@fdcasj_dfew/md-doc-mcp",
+   "version": "1.0.1",
+   "integrity": "sha512-HZX1Wdn1jjU8GOilfmntd86v+yux/DDwYqzW8ABRIQeW4kVYD/N5Vm5Bvx8hlwxvhIPwWGkoKpu7SDaECsnhCA=="
+  },
+  {
+   "id": "MAL-2026-20188",
+   "published": "2026-11-18T15:15:25Z",
+   "name": "@basis-theory-elements/api-client",
+   "version": "99.9.1",
+   "integrity": "sha512-Zk97VNBIuJTAu7cBNsGaCg1KznrShqDP6fCff88j/jq6zDmQ0mPGe0/vXqYgpp1Ksw+IO/U2bVwInZ9IwXkfhw=="
+  },
+  {
+   "id": "MAL-2026-20189",
+   "published": "2026-11-18T05:38:20Z",
+   "name": "@clikwraps/navigate",
+   "version": "99.9.1",
+   "integrity": "sha512-xAiI3dZFcYz8m3OgvRlVAkXAeExDKrHi6HGIYw5IPviLaG9gJaLDlzK0z7DchP3QyndoWqkApGr0pRcywJSVuw=="
+  },
+  {
+   "id": "MAL-2026-20190",
+   "published": "2026-11-19T06:56:59Z",
+   "name": "@h1stealthy/gh046-npm-transfer-9421a2",
+   "version": "0.0.386388",
+   "integrity": "sha512-dmbsBX5jQ/GMWT7lMVOqx5Wr7R6d/gOI5/3HFP9wygjm8BtGHCcRFwBO0NkzhTJqBJ/WRSCvRJqNVzrnMwAV6g=="
+  },
+  {
+   "id": "MAL-2026-20197",
+   "published": "2026-11-18T05:32:03Z",
+   "name": "react-native-datepickerror",
+   "version": "99.9.1",
+   "integrity": "sha512-AaXPvxBVdySPTbf6C0gSJSdDEURXOcvob3DjMPcm+1rgBNObAsBFctQGOJDpeZb6iuvnWZmNBXKauVPFw5BwVQ=="
+  },
+  {
+   "id": "MAL-2026-20198",
+   "published": "2026-11-19T06:53:36Z",
+   "name": "tajul-avengers-cli",
+   "version": "1.4.1",
+   "integrity": "sha512-mopW01YoXTCcPVhx5PMWh7sUifVBFmHIAdcifp7FUxArAjicnR2n1N6bCelErsdb0RePgfI4BXCb23HZ2KURPg=="
+  },
+  {
+   "id": "MAL-2026-20220",
+   "published": "2026-11-19T14:24:02Z",
+   "name": "@coframe-gtm/annotations",
+   "version": "1.4.0",
+   "integrity": "sha512-Rs1zfBBwNYFZCc6xUaMg/g4s5XfmIy1bzJJqJ8Kply3ZWqhJexSnRlgL3lsKZx1GY3g4mXO4xrTiTEHS68wOgg=="
+  },
+  {
+   "id": "MAL-2026-20258",
+   "published": "2026-11-19T22:22:09Z",
+   "name": "@cexy/wonfca",
+   "version": "1.2.2",
+   "integrity": "sha512-s1b+H5GmfBedgpB70fgTyB2JBcm5Ehf4MZMyqGMhBpwDMzE95k2+7KlSgFfU8VPAWRemS6VG5U+bFg5uaPy4Lw=="
+  },
+  {
+   "id": "MAL-2026-20260",
+   "published": "2026-11-19T22:53:28Z",
+   "name": "sirens-lamentt",
+   "version": "99.0.2",
+   "integrity": "sha512-A7bSnQ4tq0VJ2BebPRz1UMzGqsikM5+Z5/ifPC17mi7MrC0DwZ6vzIKN2LypToozxbCZfGlVV8nSiirpJY19aA=="
+  },
+  {
+   "id": "MAL-2026-20262",
+   "published": "2026-11-20T01:12:58Z",
+   "name": "@zaiinlin/bails",
+   "version": "1.0.7",
+   "integrity": "sha512-3xqXgR15GBCniblbNZBmvFDYK07jcJWy+yOlXBEyGwijmuAuTacyEBWkutzqHj8XbSOPkNaIYdySJdW5BfsECw=="
+  },
+  {
+   "id": "MAL-2026-20276",
+   "published": "2026-11-20T01:14:58Z",
+   "name": "@eryxenx/fca",
+   "version": "1.3.2",
+   "integrity": "sha512-A+uYqOk/IsiNkhQumR3AKMnB/8MKeh+SQuNq0Ji+4crjJxsVqe28fp2RiHhCITQotubjG+kMaZ1ddwSdb15Y3Q=="
+  },
+  {
+   "id": "MAL-2026-20281",
+   "published": "2026-11-20T02:54:13Z",
+   "name": "spencer-braincore",
+   "version": "1.0.0",
+   "integrity": "sha512-mp3EVIfu7tCU+HuD7N2S/U9cD3hOSl2KmKe+cht24DMLUjBjS792u2nUUjL12jzhgob7rrIczQ1g8rxPzYcrpA=="
+  },
+  {
+   "id": "MAL-2026-20285",
+   "published": "2026-11-20T03:51:16Z",
+   "name": "@ikyerza/baileys",
+   "version": "1.2.0",
+   "integrity": "sha512-/1kkRVqRu9uKXKWRkUOvj5IDvzj/c1SBnkVG0iJ7g3OydZQDtOnP+xwGjiZ8/C6OECibjoUf/NndwRABQRdfVg=="
+  },
+  {
+   "id": "MAL-2026-20287",
+   "published": "2026-11-20T03:51:08Z",
+   "name": "@izi-coder/baileys",
+   "version": "2.0.5",
+   "integrity": "sha512-T0+HSnDkAID7Bp0x5CmKvBWi9N8jpr03EKF/FM2QjO4hz2IpYdrJ2ivWWUQrPvFvNM6m5gLq5ohNw9NHzpiTWw=="
+  },
+  {
+   "id": "MAL-2026-20289",
+   "published": "2026-11-20T03:47:27Z",
+   "name": "vite-plugin-bar-plus",
+   "version": "1.0.47",
+   "integrity": "sha512-EOcjxpqAC7KIqWfWKumyG9N3kOqLE5ZUi8zyfSZuPDWyFicAMDiB2Ryli2j4LWggE3WBmRtLKhbp7DONHjiFmw=="
+  },
+  {
+   "id": "MAL-2026-20294",
+   "published": "2026-11-20T04:49:54Z",
+   "name": "vcdxg-eavtg-util",
+   "version": "1.0.1",
+   "integrity": "sha512-Sms/3H1ZgG+CqQIekx0fVhPZpAYQzKe6O6Fce9jszQZnKthyIhuuNDHv+G00UUPgYokpz458zBna3No0+RKTGg=="
+  },
+  {
+   "id": "MAL-2026-20295",
+   "published": "2026-11-20T06:02:31Z",
+   "name": "@guicai777/mcp-doctor",
+   "version": "1.0.1",
+   "integrity": "sha512-O4EXlimzOol1CrjiTbMgy/s/0+8quN3t6g/Cgbwds0b+0z/nPLjfp1syM0A+1mqUtDrBIZZKB7l60VBp0Jc1Sg=="
+  },
+  {
+   "id": "MAL-2026-20303",
+   "published": "2026-11-20T18:56:11Z",
+   "name": "identity-poc",
+   "version": "1.0.3",
+   "integrity": "sha512-SmXKx1eYq68lBaLEuthBQ9pO2TmZxmISkzp6t3bzbJJ+RdzxqkaHSd/Y4yqp8mYF0pjMqEI6G3QbHDt0dtAE4A=="
+  },
+  {
+   "id": "MAL-2026-20310",
+   "published": "2026-11-20T19:42:38Z",
+   "name": "@kropa/baileys",
+   "version": "1.0.3",
+   "integrity": "sha512-9MiTVgduEQJl4d6IbCg3V2aAbISaJs6e/t7WibZsdgBR9yIF5/IPojtJS6F7C7YIAW6a+7VEvCKT4o+aMhvVVw=="
+  },
+  {
+   "id": "MAL-2026-20311",
+   "published": "2026-11-20T19:42:30Z",
+   "name": "@kropaku/baileys",
+   "version": "6.7.24",
+   "integrity": "sha512-mmxxFQ6+dRe3fDK6EvpHMc8nhBCN85qUDt6GItkTd5NV6RuGVDog7iM3sZVrhQdH40jC6czIkQlDYCkEmlpCuA=="
+  },
+  {
+   "id": "MAL-2026-20314",
+   "published": "2026-11-20T21:04:38Z",
+   "name": "@expo-probe-ff8e2b/snack-probe-c2a16",
+   "version": "1.0.1",
+   "integrity": "sha512-/cj34XZvHaXozOXSND1w/IAmOw/4Rw7V0zYC6wFu57B01nnky/Rjrii5qmIsgqzI7YyB+M2nvTKN/Y61mFbpSQ=="
+  },
+  {
+   "id": "MAL-2026-20320",
+   "published": "2026-11-21T00:30:49Z",
+   "name": "aia-b-locator-fe",
+   "version": "1.0.3",
+   "integrity": "sha512-vOoh1vclSudYV4/jwuN7hTmsrzNjT/Acss7nGabLsUGiON1kxIsFDuRFcfR+kg/DzpGWbqqvEwmILA4AEQdqgg=="
+  },
+  {
+   "id": "MAL-2026-20327",
+   "published": "2026-11-21T22:08:37Z",
+   "name": "@c1-ease/card",
+   "version": "99.0.1",
+   "integrity": "sha512-F6hxpahEDv5HJduHEmEJJNiG78k9P55OtyFuwgyo+M8e4XLU4tkPlG4QylqsgMYOJhzP+5TjQhXwM2BOjQLxMg=="
+  },
+  {
+   "id": "MAL-2026-20328",
+   "published": "2026-11-21T22:04:01Z",
+   "name": "@c1-ease/core",
+   "version": "99.0.1",
+   "integrity": "sha512-0MgKjhLtouamU6LR22Xi/N5BhFU5PO2h4NJJ0nYaof9Gydbeg7LQrjXA5nPFe0b3aJozR4GNQkT6eRkTiLmlLg=="
+  },
+  {
+   "id": "MAL-2026-20334",
+   "published": "2026-11-22T23:37:46Z",
+   "name": "@callmewanz/bails",
+   "version": "1.0.0",
+   "integrity": "sha512-OMzJS8ajabGNA/friYvlGLA8V8kxC9dWTOE3xhCzlWESXV99DqPEVIrjDbldAVgS3g9+ucF+1lOEG59+WiGCmg=="
+  },
+  {
+   "id": "MAL-2026-20335",
+   "published": "2026-11-22T23:37:59Z",
+   "name": "@rizzkezik/bailseys",
+   "version": "6.7.10",
+   "integrity": "sha512-tmMvFt1sFdUjIquwhaO0KRaUQ3Xwm7BGujAhjcw1mXJhdac+QyqJPYniMc87u+YUID+1asy3hHxYGfbKgJH0YQ=="
+  },
+  {
+   "id": "MAL-2026-20336",
+   "published": "2026-11-22T23:37:32Z",
+   "name": "@rizzkezik/bailss",
+   "version": "1.2.0",
+   "integrity": "sha512-6s/HQho4NWutHC+KCG8aAwfr6N4j7FXbwyBf3qsjYoWyZfy+uDjQDfCVFXuLtdhuVt4F80A4QVoy0sR8gDCdTw=="
+  },
+  {
+   "id": "MAL-2026-20337",
+   "published": "2026-11-22T23:37:39Z",
+   "name": "@silent404/baileys",
+   "version": "7.2.1",
+   "integrity": "sha512-yYwCrC2auwa/NU8FDCNFu9m6Vinll/klqAKK58lTxWdo27sp8NevV3AUZiYJBu3wwie1xUqHaBOIrSUs/t3vJA=="
+  },
+  {
+   "id": "MAL-2026-20340",
+   "published": "2026-11-23T03:59:24Z",
+   "name": "@xz-bails/baileys",
+   "version": "6.0.11",
+   "integrity": "sha512-nD26l2afAweu1a5G4U5XFpUO8kyYfPlU3GNwuHShxvwS14+wOMpjn+CxFtHdJyG7tDlFoy0BpFTw1cVgGkSsYA=="
+  },
+  {
+   "id": "MAL-2026-20341",
+   "published": "2026-11-23T06:00:46Z",
+   "name": "neokex-fca",
+   "version": "5.0.6",
+   "integrity": "sha512-MjbSHATf7ejlaHwhLvu9orTNCEmHzPMAWkBCvAG8VRTCDC76Y3OUBrF+vH6bUAnKVg8gj+28Ocw11nLai4u9dg=="
+  },
+  {
+   "id": "MAL-2026-20345",
+   "published": "2026-11-23T08:13:35Z",
+   "name": "abir-fca",
+   "version": "0.0.25",
+   "integrity": "sha512-hp/kvHhp4fA5nZ2HOf4yJ1QsdF0OfQbqY7xdgbQkpU7WlQSig8GnylSQrMlyWw3NCwlGMMofk7L+YhCz5RGXIw=="
+  },
+  {
+   "id": "MAL-2026-20349",
+   "published": "2026-11-23T08:22:33Z",
+   "name": "fca-uzair-dev",
+   "version": "1.2.0",
+   "integrity": "sha512-d93qbejbKz1I9XEbV70z1AYcOpoLG4z1fAkOz/8xhl+u5e2H+KHxTiaC+xbvBHT7/kxP7pyr5i9apGjeCb5/IQ=="
+  },
+  {
+   "id": "MAL-2026-20351",
+   "published": "2026-11-19T16:00:00Z",
+   "name": "ali-ai-coding-trace",
+   "version": "1.0.0",
+   "integrity": "sha512-sv6knjx97I6XIhkjY6qAFYndXwOtQI2emOKYipUP6tnqGUZk9L/uu0RJg96NjlH1UUHFJjMkmiQLyFaLow1eCQ=="
+  },
+  {
+   "id": "MAL-2026-20352",
+   "published": "2026-11-20T00:00:00Z",
+   "name": "string-utils-assistant",
+   "version": "1.0.0",
+   "integrity": "sha512-LzrVil0QgWaxL6vvJhpjxta1dt4n6ilfg8YJPOSLyKPRxTry3vpQZnwXtiFhUpbkQJWl3bDo5gHnqC+SoOHmtQ=="
+  },
+  {
+   "id": "MAL-2026-20355",
+   "published": "2026-11-20T00:00:00Z",
+   "name": "apache-httpclient6",
+   "version": "1.0.0",
+   "integrity": "sha512-+HPblzYaULdjraJsMA1jgoUOkxfLOpuRwUKTRuOvyE9KynU5bTlzF3nxvW+35zUS6P3a1ufR8p+yVHJn2WyShw=="
+  },
+  {
+   "id": "MAL-2026-20356",
+   "published": "2026-11-20T00:00:00Z",
+   "name": "apache-httpclient7",
+   "version": "1.0.0",
+   "integrity": "sha512-q3IRcgn/ucSCid2Yg1ANV6GnU2f2w7tRn/cJ8eWuRuATb0ItHR34piIECPNADanCj0EXrg2idAgMHkMU/YTk1w=="
+  },
+  {
+   "id": "MAL-2026-20358",
+   "published": "2026-11-23T13:16:09Z",
+   "name": "@hostk/host-package-manager",
+   "version": "1.0.2",
+   "integrity": "sha512-ynY77OPPxfyWaaPogiu2O1fWmIrmcMjqkZiDYsUEmfFbY/OoWRPPwgYAm28MNSmArIVUtMTGfVh8LhSHQPprTg=="
+  },
+  {
+   "id": "MAL-2026-20359",
+   "published": "2026-11-23T13:16:09Z",
+   "name": "@hostk/postcss-motion-helpers",
+   "version": "1.0.5",
+   "integrity": "sha512-/ZpTR8UiEyqShHdyQN+LOOzoTcUPHczKfaDqq7Sg8I+3/LNof9xRzByhmKLT+MzpewzlsEJdtreCF7g+h5wddA=="
+  },
+  {
+   "id": "MAL-2026-20361",
+   "published": "2026-11-23T13:26:08Z",
+   "name": "@bemine/motion-kit",
+   "version": "1.0.3",
+   "integrity": "sha512-RZiWcSMAmfIBAyR+5gYuWrLe4h6g9AqmCB+yj0WwlovI1lP4YBbsYCMmH5owPWhjharQe0ll6Omz5s3XjXImqw=="
+  },
+  {
+   "id": "MAL-2026-20362",
+   "published": "2026-11-23T14:11:05Z",
+   "name": "@zervonex/baileys",
+   "version": "4.0.9",
+   "integrity": "sha512-Lvla42EkZB5+jRBK9qV0kXUGCsJAEW5USQHRLNrcVzo67QhV9oV9zZNjOtsSGUf87/UxQL+MeBvmSkZ2tFRVKg=="
+  },
+  {
+   "id": "MAL-2026-20380",
+   "published": "2026-11-23T18:53:49Z",
+   "name": "@structureit/ir-dealapi-js",
+   "version": "9.9.10",
+   "integrity": "sha512-zDdN99AoLFuE2vasr5yuBDfnt8TIgfxTElmqTabahnynY/h2M+1wmpFTC7vCRRTz4KDcm4Jf57Os3DDn1quHHA=="
+  },
+  {
+   "id": "MAL-2026-20412",
+   "published": "2026-11-23T23:13:50Z",
+   "name": "@ruaxbonz/tooltreovip",
+   "version": "1.0.1",
+   "integrity": "sha512-oovdFR44+Lupw9tZXBAAopMvEhepTIFc6ggph0hzEnZuHizNndIExSsfCdtNbBvlK5aNl1717qRntKMgv64TYg=="
+  },
+  {
+   "id": "MAL-2026-20413",
+   "published": "2026-11-24T04:12:32Z",
+   "name": "ep_nxs14622",
+   "version": "1.0.0",
+   "integrity": "sha512-x8gw8FiuLABEJJXZBlAxWhw9jlk4SD7Dd1/lHoANq/i/ACKH6aYm/71hKrzR9pGszI0G5Q2bMFe2C0Jaabmjlw=="
+  },
+  {
+   "id": "MAL-2026-20414",
+   "published": "2026-11-24T04:12:46Z",
+   "name": "ep_nxs31521",
+   "version": "1.0.0",
+   "integrity": "sha512-fJiPzCj6tS4qwc6sj8ha0JhguC3EZkIjTxz2BknBcedZcOFoD4PEz4cPk9/qp4Z6kvSe8sz9Nnd4RL1Jw0nnag=="
+  },
+  {
+   "id": "MAL-2026-20415",
+   "published": "2026-11-24T04:12:09Z",
+   "name": "ep_nxs34308",
+   "version": "1.0.0",
+   "integrity": "sha512-LRfGahLg+mNrT0eKJkdaaXV+BbR373ADtCFJTp4PsBRVmdL5kzmyF1l0QMNWCUIIt9xGg/jSV4Uteq02q+TWbw=="
+  },
+  {
+   "id": "MAL-2026-20416",
+   "published": "2026-11-24T04:12:17Z",
+   "name": "ep_nxs50049",
+   "version": "1.0.0",
+   "integrity": "sha512-ZRDBWY+hRV5gLDuBucv49Ai0ULLm1iEuy2u794AMtZv3LzvNh8RoV8n/oJTI8MS7Dqfv2Gm7uAzTqp3QXgOijA=="
+  },
+  {
+   "id": "MAL-2026-20417",
+   "published": "2026-11-24T04:12:39Z",
+   "name": "ep_nxs75183",
+   "version": "1.0.0",
+   "integrity": "sha512-LMwTMAr0/f21pzUNv4KwFMZaWNNQdHXFMI0K1GMUAqpQkNQYXwNZ7ubAQpthrLwfgg7m4CkGbEhhjf5FGUoQiw=="
+  },
+  {
+   "id": "MAL-2026-20418",
+   "published": "2026-11-24T04:12:24Z",
+   "name": "ep_nxs75232",
+   "version": "1.0.0",
+   "integrity": "sha512-HhM9fReCbwME0E7G9gQ3+BkWme+x+sruaBo82zVjsH2G1s19C8In6AdmhPvJGs9ny6lBCJqUj9t5VHlkriYOpw=="
+  },
+  {
+   "id": "MAL-2026-20419",
+   "published": "2026-11-24T04:12:53Z",
+   "name": "ep_nxs77178",
+   "version": "1.0.0",
+   "integrity": "sha512-quNJVSmWGeECfbeoPLFdYpdG2jPqdbBzSL6pmDMe43AskOkAo3UH9EWqI3bBWhLjQnxA7zhwL6nmUZR1fY2v3w=="
+  },
+  {
+   "id": "MAL-2026-20423",
+   "published": "2026-11-24T05:40:45Z",
+   "name": "wiwusen",
+   "version": "2.0.0",
+   "integrity": "sha512-LhbpFh8yJ9YcAMC0YebyufQp0qYleirz2cyAaCTPqxSr0NZGCwJYFy5nFriqqrqBnUdfK9Xod5Iq8YmIVUgGSg=="
+  },
+  {
+   "id": "MAL-2026-20424",
+   "published": "2026-11-24T05:39:22Z",
+   "name": "x3r0day-bunnyhijack-poc",
+   "version": "1.0.3",
+   "integrity": "sha512-MjGD6Pkfor35q2mM17a+aa80UNtmP2TO6XLKdbg27853rWg+lXdHLFEfaP9XSdyciHKrA+gT50bVQ7l3489t7A=="
+  },
+  {
+   "id": "MAL-2026-20425",
+   "published": "2026-11-24T05:37:45Z",
+   "name": "youseethemoney",
+   "version": "1.0.1",
+   "integrity": "sha512-9M2qLA8RdCl+Yt/nsz2z3hGFiqjRsaTZoaXTZ1zlLNcgIzfjHltn1ww6+Fp8/+cupG8mfJ1aG49Aci5dhgjO1g=="
+  },
+  {
+   "id": "MAL-2026-20426",
+   "published": "2026-11-24T06:04:20Z",
+   "name": "zod-msg-tools",
+   "version": "0.1.4",
+   "integrity": "sha512-G5W5fw1Nhl2eSx+xYas674op0oiL9z+gw5rLJT1exEIaMYgB044spS7emOFjHMvz2QzMKmItD1C3mGOsR+cBbQ=="
+  },
+  {
+   "id": "MAL-2026-20427",
+   "published": "2026-11-24T05:38:28Z",
+   "name": "zzf7rce-probe",
+   "version": "1.0.0",
+   "integrity": "sha512-yFKuO2aOD1/99VM0HnpdqOr0Q5UDbB4yqj5yl/lF4tA+aP21AkBmnv/MaMIgube7z8rj0gZ9D14FU4BxA015Iw=="
+  },
+  {
+   "id": "MAL-2026-20428",
+   "published": "2026-11-22T13:56:40Z",
+   "name": "com.unity.external-dependency-manager",
+   "version": "2.1.1",
+   "integrity": "sha512-cPLU3iargdFV6pT3VKgfAzKdtHAq2VAi5Qc7nY1TDCbht7pbqZJxrGPa3+E6DOAAjZPdRY+g9DcaCKldcHk9MA=="
+  },
+  {
+   "id": "MAL-2026-20429",
+   "published": "2026-11-20T10:59:52Z",
+   "name": "dinocode-baileys",
+   "version": "9.0.23",
+   "integrity": "sha512-tpXxze0TMQBZFCvVhTsm566aJ4+oFj4RYE/fX9JL1d0ka4zX7Dr+a0sLPRq7jn44c5INnwAds9zsQVIefcja4g=="
+  },
+  {
+   "id": "MAL-2026-20430",
+   "published": "2026-11-20T00:00:00Z",
+   "name": "ugent_uws",
+   "version": "10.9.11",
+   "integrity": "sha512-Dzdfo4JoNAvFEk0/Dy3uRvM0vfdScaU5h0e/KS6FamWcaeTn0tveShev2LGSYkyX8fgPuskH6wii9Gq7QBI0vQ=="
+  },
+  {
+   "id": "MAL-2026-20435",
+   "published": "2026-11-24T12:34:04Z",
+   "name": "@bctools/motion-kitaid",
+   "version": "1.0.3",
+   "integrity": "sha512-2i3RAX1v5MprTRhV1hty9+3ZuRyPccd9N1WFDnoSAwk+2nhwFAkmkGBYQECvj9pDWpJ5AMEyTLOj7q7Y60y6gQ=="
+  },
+  {
+   "id": "MAL-2026-20499",
+   "published": "2026-11-24T17:12:06Z",
+   "name": "@pixelworkshub/postcss-motionfx",
+   "version": "1.0.6",
+   "integrity": "sha512-ucdy6rng3i6NOx3OggVHrj1+yAWrPByNI4Sd9oo6V2UVVKhLTyGZKSaJkBb4mRBmbdvIicIWFNGG+JD9z9nqag=="
+  },
+  {
+   "id": "MAL-2026-20603",
+   "published": "2026-11-25T15:46:07Z",
+   "name": "ep_nxs74552",
+   "version": "1.0.0",
+   "integrity": "sha512-xav9NWjPvJ60ReSGSxwgE8yLaVTcgoFLBEou6cI1JKVKguunNL8hEw3cX/mmWUtQRGZoy5G5ri9Pl5STp5YKyA=="
+  },
+  {
+   "id": "MAL-2026-20645",
+   "published": "2026-11-25T23:30:00Z",
+   "name": "clamp4js",
+   "version": "1.0.13",
+   "integrity": "sha512-9+m7X/BNHjyyAKP+Sl0eTn0CrxSUBwzrXw3cccbHTx+V3+aavczs5BGDOzyKUXJ4AdTqCxhecqlpn51Y64YBEQ=="
+  },
+  {
+   "id": "MAL-2026-20646",
+   "published": "2026-11-19T14:00:01Z",
+   "name": "svg-bucket",
+   "version": "2.0.0",
+   "integrity": "sha512-/OAB3tlYN1j5mHxTdfsY1gdvgLTYVIkkRcsFf+cTg8Jeq6koftiCSsxB1BRXKQJloDw4ytEZ4ky71sfTO8rv3w=="
+  },
+  {
+   "id": "MAL-2026-20651",
+   "published": "2026-11-26T11:40:56Z",
+   "name": "@flexflow/flex-ui-flow",
+   "version": "2.3.9",
+   "integrity": "sha512-N+8l3QS3M6OKlDoQ5Ol/kgKYmwb1/7rYs5Q1OfuJe0kk+vN0MbDgSrkq3bwyBLGOq1m0UairNt2I1ErscWLaNQ=="
+  },
+  {
+   "id": "MAL-2026-20672",
+   "published": "2026-11-26T21:57:04Z",
+   "name": "modelbufs",
+   "version": "1.0.1",
+   "integrity": "sha512-mwmuZxEx0xI9CC8bjxJKSZORQBN6ZH0ow0XX+h0dEpaKfr8U1Op8daRgXrmBpbbdzQr/PXeaonjBiV2zgBRKhQ=="
+  },
+  {
+   "id": "MAL-2026-20674",
+   "published": "2026-11-26T23:42:24Z",
+   "name": "supunmd-baileys",
+   "version": "0.0.1",
+   "integrity": "sha512-qoluAcMwROP11jCDZIGUOsP4XCiRloldJyHsljCMxz85SLqllKwBbKh2hqJ7YRbJgXQNJm7cdf39DQb3GL0euw=="
+  },
+  {
+   "id": "MAL-2026-20677",
+   "published": "2026-11-13T14:19:11Z",
+   "name": "@alexiddev/baileys",
+   "version": "1.0.1",
+   "integrity": "sha512-iQhAqU+Pb8kc7VHdWK2jgFF6X3wVyySc1D4/IC0ixliQA5P+ntbyX4csHpMJSbyQWYfKQeKdEo1gM+BbEYzkAw=="
+  },
+  {
+   "id": "MAL-2026-20678",
+   "published": "2026-11-17T06:05:00Z",
+   "name": "@angkasabaileys/baileys",
+   "version": "1.0.1",
+   "integrity": "sha512-0ZtVofDjNZPk1+d/jEgqL3kEeNvn1U0FFcxz1hr5+Rk/fMtf+pOefF6ayw4BAMZ82dcuUlyz08H1XbFsnV4dog=="
+  },
+  {
+   "id": "MAL-2026-20679",
+   "published": "2026-11-13T14:19:11Z",
+   "name": "@dancihuy/baileys",
+   "version": "0.0.1",
+   "integrity": "sha512-rTERJPXNPaWW6AniWaj06MmZdrW5FzVKTi/WWVTRnqW6Y7ZcfqInMml+fx/xF3mJLGewFfE1YhfhB4cqq7pkBw=="
+  },
+  {
+   "id": "MAL-2026-20680",
+   "published": "2026-11-13T14:19:11Z",
+   "name": "@leonoremods/baileys",
+   "version": "1.10.1",
+   "integrity": "sha512-JJEV/gVGDkLIURnMGn8dqAVCIrqKr+BJskvyjqsloN6YDCmmb3gWmk/M48pgf2+zCgmtPXfcbRC9vb6hED7h4A=="
+  },
+  {
+   "id": "MAL-2026-20681",
+   "published": "2026-11-15T11:07:16Z",
+   "name": "@web2apkbail/baileys",
+   "version": "3.0.1",
+   "integrity": "sha512-xnpC1N/oyoNki8a9PLp3Y91zz6FKRR/FPZ9g1noRXxG6nytsGYEwxWINwie2+iwTVBvrU7gzij5xpve0/qjkow=="
+  },
+  {
+   "id": "MAL-2026-20690",
+   "published": "2026-11-27T12:33:42Z",
+   "name": "@nextlayers/nextcsskit",
+   "version": "1.0.1",
+   "integrity": "sha512-7moz2DdsGY6Mq4BpgrvYolBdk40EALdUE0p1nUqfHBH1KWFwdmlNK0csX5wrQLJUlhJICHmLtob+NyyL9AflLA=="
+  },
+  {
+   "id": "MAL-2026-20712",
+   "published": "2026-11-27T15:59:58Z",
+   "name": "@nakanoo/baileys",
+   "version": "1.0.1",
+   "integrity": "sha512-g43cKkYOMJ2fIcUT69UJHOdgIbxoGE+MZWZaCWajHmsbDymxdDiZRY63voLtPZc+yt2AESXucA6XAteUmTq4cw=="
+  }
+ ]
+}

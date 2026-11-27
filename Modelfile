@@ -1,0 +1,4 @@
+# Ollama model for tarsniff. The CLI sends raw prompts, so no chat template is needed.
+FROM ./tarsniff-q4_k_m.gguf
+PARAMETER temperature 0
+PARAMETER num_ctx 4096
